@@ -1,0 +1,42 @@
+./receiver 5001 localhost 6001 output.dat
+
+/** receiver
+ * default: sending port number = 3005
+ * @param argv[1] receiving port number  = 5001 
+ * 			argv[2] destination address = localhost
+ * 			argv[3] destination port number = 6000
+ * 			argv[4] filename to save 
+ */
+
+
+
+
+
+./sender localhost 6000 5000 text2.dat
+
+/** sender
+ * default: sending port number = 3000
+ * @param: argv[1] destination host address = localhost
+ * 			argv[2] destination port number = 6001
+ * 			argv[3] listening port number = 5000
+ * 			argv[4] filename
+ */
+
+
+
+
+
+./forwarder localhost 5000 localhost 5001 6000 6001
+
+/** forwarder
+ * default param
+ * 			hostname = "localhost"
+ *			port1_send number = 4000
+ *			port2_send number = 4500
+ * @param argv[1] node1_address = localhost
+ * 			argv[2] node1 port number = 5000
+ * 			argv[3] node2 address = localhost 
+ * 			argv[4] node2 port number = 5001 
+ * 			argv[5] port1_recv number = 6000
+ * 			argv[6] port2_recv number = 6001
+ */

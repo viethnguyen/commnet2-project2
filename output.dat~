@@ -1,0 +1,3889 @@
+
+;}  ;0.0063*sruoh = _nigiro_sba)0>sruoh( fi{)sruoh tni(nigirOetulosbAtes diov enilni   
+ ;)(emiTtnerruCteg elbuod   
+;)(kcolCesuap  loob   
+;)(kcolCemuser  loob   
+**/   
+.emit lanigro eht tfihs ot noitcnuF *    
+/*    
+};emittfihs =+ _nigiro {)emittfihs elbuod(nigirOtfihs diov enilni   
+;)pmatsemit elbuod(tAtiaw diov   
+        	          
+:etavirp 
+kcolc metsys fo sdnoces fo tinu eht ni era gnimit .emit lanigiro <///  ;_nigiro  elbuod   
+emit etulosba etaluclac ot tesffo emit gnitrats </// ;_nigiro_sba  elbuod   
+desuap si kcolc eht nehw )emit evitaler( emit kcolc ehT <///  ;_tnatsniesuap  elbuod   
+won desuap si kcolc eht fi etacidni ot galf A <///    ;_desuap    loob   
+;}
+
+fidne#
+H_PPA_TIBRO fednfi#
+H_PPA_TIBRO enifed#
+
+"h.tekcap" edulcni#
+"h.sserdda" edulcni#
+>maertsf< edulcni#
+;dts ecapseman gnisu
+snoitacilppa desab-GTO fo sdnik lla rof ssalc esab tcartsbA **/
+noitacilppa tnereffid rof sgnittes lmo tnereffid evired ew wolla ngised sihT * 
+LMO ffo nrut ot noitpo na sedivorp osla * 
+/* 
+
+ppAtibrO ssalc
+     {
+:cilbup
+}{)(ppAtibrO enilni   
+}{)(ppAtibrO~ lautriv   
+;0 =)tpogol *rahc ,][vgra *rahc tsnoc ,cgra* tni(tini diov lautriv   
+};)(esolc._pf)_LMOesu!(fi{ )( esolc diov enilni   
+;0 =)p* tekcaP(tropeRredneSlmo diov lautriv   
+; 0 =)p* tekcaP(tropeRrevieceRlmo diov lautriv   
+;0=)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov lautriv   
+:detcetorp 
+;_emaNppa *rahc   
+noitargetni LMO ffo/no nrut<///  ;_LMOesu loob   
+gol gubed fo eman elif</// ;_pf maertsf   
+;}
+
+
+fidne#
+"h.noitacilppa_fto" edulcni#
+ "h.fto_balniw_tibro_lmo" edulcni#
+
+)(ppAFTO::ppAFTO
+{
+  
+}
+
+
+**/
+Lmo ezlaitinI * 
+/* 
+
+)tpogol *rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppAFTO diov
+{
+{)LLUN == tpogol ( fi     
+;eurt = _LMOesu           
+;)LLUN ,vgra ,cgra(lmo_ezilaitini           
+}     
+esle     
+{     
+;eslaf = _LMOesu           
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf           
+))(nepo_si._pf( fi   	
+{   	
+;ldne << "etar issr emitxr ezistkp onqeswolf diwolf camrednes troprednes pirednes onqesmaerts dimaerts" << _pf      	
+}           
+esle           
+{           
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht              	
+;)1(tixe              		
+}           
+   				
+   	}     
+}
+
+
+**/
+)LMO ot revieceR FTO( tnemerusaeM ttropeR LMO>---FTO * 
+/* 
+
+)p* tekcaP(tropeRrevieceRlmo::ppAFTO diov
+{
+)_LMOesu! (fi
+ 	{
+  
+;" "<< )(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(<< " "<< )(dImaertSteg>-_erusaeMxt>-p)tni(<< _pf 
+;" "<< )(troPredneSteg>-_erusaeMxt>-p )tni(<<" "<<)(emaNredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(CAMredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(<< " " << )(dIwolFteg>-_erusaeMxr>-p)tni( << _pf 
+;" " <<)(emiTxRteg>-_erusaeMxr>-p)gnol( << " " << )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(  << _pf 
+;ldne<< )(etaRtimXYHPteg>-_erusaeMxt>-p)tni( << " " << )(ISSRteg>-_erusaeMxr>-p)tni(  << _pf 
+	
+}
+esle
+,)(dImaertSteg>-_erusaeMxt>-p)tni(// (reviecerfto_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(//                    
+,)(emaNredneSteg>-_erusaeMxt>-p     //    		
+,)(troPredneSteg>-_erusaeMxt>-p )tni(//    		
+,)(CAMredneSteg>-_erusaeMxt>-p    //                    
+,)(dIwolFteg>-_erusaeMxr>-p)tni(                    
+,)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(                    
+, )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(    		
+,)(emiTxRteg>-_erusaeMxr>-p)gnol(    		
+,)(ISSRteg>-_erusaeMxr>-p)tni(    		
+                ;) )(etaRtimXYHPteg>-_erusaeMxt>-p)tni(                    
+   
+  
+}
+
+)p* tekcaP(tropeRredneSlmo::ppAFTO diov
+{
+  
+*/  
+;)(pmatSemiTteg>-p << " emit reviled tekcaP detcepxE" << tuoc 
+su ni pmatsemit xt//;)(emiTxTteg>-_erusaeMxt>-_p <<" emit ta tekcap a dnes " << tuoc  
+;)(eziSdaolyaPteg>-p << " ezis fo tekcaP a gnidneS " << tuoc  
+;)(dImaertSteg>-_erusaeMxt>-p << " di maertS " << tuoc  
+ ;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " DI ecneuqeS " << tuoc  
+ /* 
+  
+)_LMOesu(fi  
+,))(dImaertSteg>-_erusaeMxt>-p()tni(  (troprednes_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p                   
+,)(eziSdaolyaPteg>-p                   
+,))(pmatSemiTteg>-p()gnol(   		
+;) )(emiTxTteg>-_erusaeMxt>-p)gnol(                   
+
+}
+
+H_NOITACILPPA_FTO fednfi#
+H_NOITACILPPA_FTO enifed#
+"h.ppatibro" edulcni#
+
+ppAtibrO cilbup : ppAFTO ssalc
+{
+:cilbup 
+
+;)(ppAFTO    
+;)goltpo *rahc ,][vgra*rahc tsnoc ,cgra* tni(tini diov    
+;)p* tekcaP(tropeRredneSlmo diov    
+;)p* tekcaP(tropeRrevieceRlmo diov    
+   ;}{)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov enilni    
+;}
+
+fidne#
+***************************************************************************/ 
+redrawroF ciffarT tibrO :FTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>maertsoi< edulcni#
+"h.maerts" edulcni#
+"h.eueuqatad" edulcni#
+"h.knis_eueuq" edulcni#
+"h.rotareneg_eueuq" edulcni#
+;dts ecapseman gnisu
+"h.etagrehte" edulcni#
+"h.troprehte" edulcni#
+"h.etag_cambil_rehte" edulcni#
+"h.noitacilppa_fto" edulcni#
+"h.fto_balniw_tibro_lmo" edulcni#//
+"h.gto_balniw_tibro_lmo" edulcni#//
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+
+
+{ = ][emitnur_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {    
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {    
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP   
+,} "etaG" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,} "troP" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {   
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {   
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {   
+,} 0 ,LLUN ,0 ,0 ,LLUN {   
+;}
+
+**/
+seciohc rehto on ,cambil_war ro war esu ot retehw( locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+/* 
+)emangol ** rahc ,eman_locotorp **rahc ,][vgra * rahc tsnoc ,cgra tni(1esahPsnoitpOesrap diov
+ {
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;emangol = gra.]2[1esahp_snoitpo  
+  
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+ }  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rehto dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+)etag *etaG  ,trop *troP ,][vgra * rahc tsnoc ,cgra tni(snoitpOesrap diov
+{
+
+;)(snoitpOteg>-etag)*diov( = gra.]1[snoitpo  
+ ;)(snoitpOteg>-trop)*diov( = gra.]2[snoitpo  
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+
+/* ... snoitpo eht lla daeR */	 ;)0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;ldne << "!derongI snoitpO dezingocernU" << tuoc    
+}  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc  
+{ )LLUN =! revotfel( fi  
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1(tixe    
+}  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+)troprht t_daerhtp ,etagrht t_daerhtp ,euq *eueuQataD ,trop *troP ,etag *etaG ,gsm * rahc(snoitpOemitnuResrap diov
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[rts rahc  
+
+;nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + rts(ypcrts    
+;'-' = ]1[rts = ]0[rts    
+;rts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+	;)TSRIF_PEEK_TXETNOC_TPOP ,emitnur_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+;cr tni  
+ { )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1 == cr( fi    
+tixE dna potS //      
+;)etagrht(lecnac_daerhtp      
+;)(etaGesolc>-etag      
+;)troprht(lecnac_daerhtp      
+;)(troPesolc>-trop      
+;euq eteled      
+;)1(tixe      
+}    
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+	;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+*/
+) rtp* diov (daerht_emitnur_eldnah_etaerc* diov
+{
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)gsm(snoitpOemitnuResrap        
+     }  
+}
+/*
+
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (daerht_eviecer_etaerc* diov
+{
+;rtp )* etaG( = arap* etaG     
+  ;)(evieceRtrats>-arap     
+;LLUN nruter     
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (noitcnuf_maerts_etaerc* diov
+{
+;rtp )* maertS( = arap* maertS     
+  ;)(maertStrats>-arap     
+;LLUN nruter     
+}
+
+
+**/
+.FTO eht fo noticnuf niaM ehT  * 
+:seod tI  * 
+.troP eno dna )ton ro cambiL htiw( etaG eno etaerc -  * 
+.troP dna etaG detcennoc ot eueuq egassem a etaerc -  * 
+dnes ot trop eht ot tekcap deviecer yreve drawrof ot sdaerht tnednepedni owt trats -  * 
+
+dnammoc "tixe" tpecxe ,noitacilppa siht rof snotpo emit-nur on si erehT  * 
+:erugifnoc ot dedeen era snoitpo enil dnammoc laitini  * 
+eviecer ot wh hcihw -  * 
+dnes ot wh hcihw -  * 
+PI hcihw ot detanitsed stekcap rof ot dnes ot rddawh hcihw -  * 
+* 
+.enil-dnammoc eht morf gnimoc era snoitpo esoht llA  * 
+trop gnidnes fo rotareneg eht ot etag gnieviecer fo knis eht rotcennoc ot desu si "euq" tcejbo eueuQataD A  * 
+/* 
+
+)][vgra * rahc tsnoc ,cgra tni(niam tni
+{
+;)(ppAFTO wen = 1fto *ppAtibrO  
+
+{ yrt  
+  ;)vgra ,cgra&(lmo_ezilaitini//    
+;)LLUN ,vgra,cgra&(tini>-1fto//    
+
+;1daerht t_daerhtp  
+;2daerht t_daerhtp  
+;LLUN = eman_locotorp* rahc  
+;LLUN = eman_golgubed* rahc  
+ ;LLUN = etag *etaG  
+
+;)(eueuQataD wen  = euq * eueuQataD  
+;)euq(rotareneG_eueuQ wen = neg *rotareneG  
+;)euq(kniSeueuQ wen = nis *kniSeueuQ  
+
+;)eman_golgubed& , eman_locotorp& ,vgra ,cgra(1esahPsnoitpOesrap  
+  
+;)eman_golgubed ,vgra,cgra&(tini>-1fto  
+{) 0 == )"war" ,eman_locotorp(pmcrts( fi  
+ ;)(etaGtenrehtE wen = etag    
+{)0 == ) "cambil_war" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLtenrehtE wen = etag    
+}  
+;)nis(etaGtenrehtE wen = etag *etaGtenrehtE//  
+;)(troPtenrehtE wen = trop *troPtenrehtE  
+;)etag ,trop ,vgra ,cgra(snoitpOesrap  
+msinahcem troper LMO>-ETAG eht etavitca ton tub ,etag eht ot knis a dnib // ;)nis,LLUN(etaGgifnoc>-etag  
+;)(tini>-trop  
+;)(tini>-etag  
+msinahcem troper LMO>-maertS etavitca ton od tub ,maerts etaerc// ;)LLUN ,trop,neg,0(maertS wen = rts* maertS  
+
+) 0 =! )etag)*diov( ,daerht_eviecer_etaerc,LLUN ,1daerht& (etaerc_daerhtp ( fi  
+;"...deliaF daerhT evieceR etaerC" worht      
+
+) 0 =! )rts)* diov( ,noitcnuf_maerts_etaerc ,LLUN ,2daerht& (etaerc_daerhtp ( fi  
+;"...deliaF daerhT dneS etaerC " worht      
+
+
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)2daerht ,1daerht ,euq ,trop ,etag ,gsm(snoitpOemitnuResrap        
+}  
+
+
+{ ) nosaer* rahc tsnoc ( hctac}  
+;ldne << nosaer << ":noitpecxE" << rrec    
+;)1-(tixe    
+}  
+
+;0 nruter  
+}
+
+"h.noitacilppa_gto" edulcni#
+ "h.gto_balniw_tibro_lmo" edulcni#
+
+>maertsf< edulcni#
+>maertsoi< edulcni#
+;dts ecapseman gnisu
+
+
+)(ppAtibrO://)(ppAGTO::ppAGTO
+ {
+ ;eurt = _LMOesu  
+}
+
+**/
+Lmo ezlaitinI* 
+/* 
+
+)tpogol* rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppAGTO diov
+{
+)LLUN == tpogol ( fi  
+{    
+LMO ot og stemerusaem ,gol gniggubed on// ;eurt = _LMOesu      
+;)LLUN ,vgra ,cgra(lmo_ezilaitini      
+}    
+esle  
+{    
+;eslaf = _LMOesu      
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf      
+))(nepo_si._pf( fi      
+{      
+    ; ldne << "nepo yllufsseccus eliF" << tuoc//	
+  ;ldne << "onqes dimaerts ezistekcap emitreviledtekcaP emitreviledtekcaPdetcepxE" << _pf        
+}      
+esle      
+	   {      
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht	
+;)1(tixe        
+}      
+}    
+}
+
+
+**/
+)LMO ot GTO( tnemerusaeM tropeR LMO>---GTO * 
+/* 
+
+)p* tekcaP(tropeRredneSlmo::ppAGTO diov
+{
+
+)_LMOesu( fi  
+{    
+      
+(troprednes_lmo    
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p                     
+,)(eziSdaolyaPteg>-p                     
+,)3e1*)(pmatSemiTteg>-p()taolf(     		
+;) )(emiTxTteg>-_erusaeMxt>-p)gnol(     		
+    
+}    
+esle  
+{    
+sm ni pmatsemit xt//; " " << ))(emiTxTteg>-_erusaeMxt>-p()gnol( <<" " << 3e1*)(pmatSemiTteg>-p << _pf      
+;" " << )(dImaertSteg>-_erusaeMxt>-p <<" "<<)(eziSdaolyaPteg>-p << _pf      
+;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << _pf      
+    
+}    
+    
+}
+
+*/
+) 1 == 005 % )(muNecneuqeSmaertSteg>-_erusaeMxt>-p ( fi 
+{   
+;)(pmatSemiTteg>-p << " emit reviled tekcaP detcepxE" << tuoc 
+su ni pmatsemit xt//;)(emiTxTteg>-_erusaeMxt>-p <<" emit ta tekcap a dnes " << tuoc  
+;)(eziSdaolyaPteg>-p << " ezis fo tekcaP a gnidneS " << tuoc  
+;)(dImaertSteg>-_erusaeMxt>-p << " di maertS " << tuoc  
+;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " DI ecneuqeS " << tuoc  
+}  
+   /*
+
+**/
+.trop redens eht ot maerts wen a gniddA * 
+tsil maerts eht fo liat ot maerts dda syawlA * 
+maerts dedda ylwen siht ot _rrucls tes ,LLUN si retniop "_rrucls" eht fi dnA * 
+maerts eht s marap@ * 
+* 
+/* 
+*/
+)s *maertS(maertSdda::ppAGTO diov
+{
+{ )_liatls!( fi  
+;s =_liatls =_daehls    
+{ esle }  
+;_liatls = _verp>-s    
+;s =_txen>-_liatls    
+;s =_liatls    
+}  
+;LLUN =_txen>-_liatls  
+;_liatls = _rrucls ) LLUN == _rrucls( fi  
+
+}
+/*
+
+.di maerts sti yb maerts a dnif ot noitcnuF **/
+.maerts eht fo di eht: di marap@ * 
+dnuof ton fi LLUN ,maerts eht ot retniop eht nruter@ * 
+/* 
+*/
+)di trohs(DIybmaertShcraes::ppAGTO *maertS
+{
+
+;_daehls = s* maertS  
+)LLUN=! s ( elihw  
+{        
+;s nruter ) di == )(DIteg>-s(  fi          
+;_txen>-s = s          
+}        
+
+;LLUN nruter  
+}
+/*
+**/
+tsil maerts morf maerts eht eteled ot noitcnuf A  * 
+:snoitautis eerht redisnoc ot sdeen gnidoC  * 
+daeh tsil -  * 
+liat tsil -  * 
+rehto -  * 
+/* 
+*/
+)mrts *maertS(maertSeteled::ppAGTO loob
+{
+;eslaf nruter )mrts!( fi   
+)LLUN=! _verp>-mrts ( fi   
+;_txen>-mrts = _txen>-_verp>-mrts     
+)LLUN=! _txen>-mrts ( fi   
+;_verp>-mrts = _verp>-_txen>-mrts         
+
+;eurt nruter   
+
+}
+
+)di trohs(maertSeteled::ppAGTO loob
+{
+;)di(DIybmaertShcraes =s* maertS   
+;)s(maertSeteled nruter   
+}
+/*
+
+tsil eht ni smaerts gniogtuo fo rebmun eht teg **/
+liat ot daeh morf tnuoc   * 
+* 
+/* 
+*/
+)(muNmaertSteg::ppAGTO trohs
+{
+;0 = tnc trohs 
+;_daehls = s* maertS 
+)LLUN=! s ( elihw 
+{ 
+;++tnc   
+;_txen>-s = s   
+} 
+;tnc nruter 
+}
+/*
+H_NOITACILPPA_GTO fednfi#
+H_NOITACILPPA_GTO enifed#
+"h.tekcap" edulcni#
+"h.maerts" edulcni#
+"h.ppatibro" edulcni#
+ ;maertS ssalc
+
+ppAtibrO cilbup : ppAGTO ssalc
+{
+:cilbup 
+;)(ppAGTO    
+;)tpogol *rahc ,][vgra *rahc tsnoc ,cgra* tni(tini diov    
+;)p* tekcaP(tropeRredneSlmo diov    
+;}{)p* tekcaP( tropeRrevieceRlmo diov enilni    
+;}{)rddA *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov enilni    
+;)s* maertS(maertSdda diov//    
+:detcetorp 
+   
+  
+;}
+
+
+fidne#
+***************************************************************************/ 
+rotareneG ciffarT tibrO :GTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>h.emit/sys< edulcni#
+>maertsoi< edulcni#
+;dts ecapseman gnisu
+"h.maerts" edulcni#
+"h.sserdda" edulcni#
+"h.rotareneg_rbc" edulcni#
+"h.rotareneg_opxe" edulcni#
+"h.tropkcos" edulcni#
+"h.trop_kcospdu" edulcni#
+"h.trop_kcospct" edulcni#
+"h.troprehte" edulcni#
+"h.ppatibro" edulcni#
+"h.noitacilppa_gto" edulcni#
+ "h.gto_balniw_tibro_lmo" edulcni#//
+
+>h.daerhtp< edulcni#
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP  
+,}"]tekcap_war|pdu|pct[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"locotorp" {  
+,}"]oopxe|rbc[" ,"rotareneg fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"rotareneg" {  
+,}"]emanelif[" ,"goL tnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP  ,'0\' ,"golgubed" {  
+,}"sruoh" ,"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {  
+;}
+
+
+**/
+eman_rotareneg eht no desab rotareneG a etaerc ot noitcnuF * 
+eman rotareneg :eman_rotareneg marap@ * 
+detaerc rotareneg eht nruter@ * 
+/* 
+
+*rotareneG
+(rotareneGetaerc
+eman_rotareneg *rahc  
+{ )
+   ;LLUN = neg *rotareneG  
+
+{) 0 == )"rbc" ,eman_rotareneg(pmcrts( fi  
+;)(rotareneG_RBC wen = neg    
+{)0 == )"oopxe" ,eman_rotareneg(pmcrts(fi esle}  
+;)(rotareneG_opxE wen = neg    
+{ esle}  
+;ldne << ".'" << eman_rotareneg << "' rotareneG nwonknU :rorrE" << rrec    
+;)1-(tixe    
+ }  
+;neg nruter  
+}
+
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP  
+,} "troP" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {  
+,} "rotareneG" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {  
+,}"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"locotorp" {  
+,}"rotareneg fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"rotareneg" {  
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {  
+,}"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {  
+,} "tixe dna rotareneg eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {  
+,} "tixe dna rotareneg eht esuap" ,2 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"esuap" {  
+,} "rotareneg eht emuser" ,3 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"emuser" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {  
+;}
+
+
+**/
+epyT rotareneG dna locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+:epyt rotareneg :tg marap@  * 
+/* 
+(1esahPsnoitpOesrap diov
+ ,cgra tni
+ ,][vgra * rahc tsnoc
+ ,eman_locotorp **rahc
+ ,eman_rotareneg **rahc
+,eman_gol **rahc
+ ferkcolc *tni
+ {)
+ 
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;eman_rotareneg = gra.]2[1esahp_snoitpo  
+;eman_gol = gra.]3[1esahp_snoitpo  
+ ;ferkcolc = gra.]4[1esahp_snoitpo  
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+*/  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+}  
+{) LLUN == eman_rotareneg*( fi  
+;ldne << "!noitpo rotareneG gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+}  
+/*  
+;LLUN = gra.]1[1esahp_snoitpo//  
+;LLUN = gra.]2[1esahp_snoitpo//  
+;LLUN = gra.]3[1esahp_snoitpo//  
+;LLUN = gra.]4[1esahp_snoitpo//  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+.desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rotareneg dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+diov
+(2esahPsnoitpOesrap
+ ,cgra tni  
+  ,][vgra * rahc tsnoc  
+ ,trop *troP  
+neg *rotareneG  
+{ )
+
+;)(snoitpOteg>-trop)*diov( = gra.]1[snoitpo  
+;)(snoitpOteg>-neg)*diov( = gra.]2[snoitpo  
+;"DEXIF" = pircseDgra.]3[snoitpo  
+;"DEXIF" = pircseDgra.]4[snoitpo  
+;"DEXIF" = pircseDgra.]5[snoitpo  
+;"DEXIF" = pircseDgra.]6[snoitpo  
+
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+;)0 => ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;rre otog    
+}  
+{  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc    
+{ )LLUN =! revotfel( fi    
+;ldne << ".dnuof '" << ]0[revotfel << "' tnemugra lanoitiddA :RORRE" << rrec      
+;rre otog      
+}    
+}  
+;)noCtpo(txetnoCeerFtpop  
+;nruter  
+
+:rre 
+;)0 ,rredts ,noCtpo(egasUtnirPtpop  
+;)1-(tixe  
+}
+
+**/
+snoitpO emitnuR esraP * 
+/* 
+
+)rts *maertS ,gsm * rahc(snoitpOemitnuResrap tni
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[nirts rahc  
+
+;1- nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + nirts(ypcrts    
+;'-' = ]1[nirts = ]0[nirts    
+;nirts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+;)TSRIF_PEEK_TXETNOC_TPOP ,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	
+;cr tni  
+{ )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+
+potS //{ )1 == cr( fi        
+;)(maertStixe>-rts  	
+sdaerht sti lla dna ssecorp etanimret tixe//  ;)0(tixe          
+}        
+)2 == cr( fi esle        
+ {	
+         ;)(maertSesuap>-rts          
+}	
+)3==cr( fi esle	
+{	
+;)(maertSemuser>-rts          
+     }	
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+;)noCtpo(txetnoCeerFtpop  
+	;cr nruter  
+}
+
+**/
+eman_locotorp eht no desab troP a etaerc ot noitcnuF * 
+eman locotorp :eman_locotorp marap@ * 
+detaerc trop eht nruter@ * 
+/* 
+
+*tro snoitpo lla esrap ,tsriF :sa dengised si tI * 
+)rednes si siht fi( rotareneG dna troP fo ssenidaer eht kcehc ,snoitpo level dnoces eht gnisrap retfA * 
+.trats ot ydaer dna ,oiranecs eht pu-tes dna trop eht ezilaitini neht * 
+
+  .GTO eno ni smaerts elpitlum evah ot gniog era ew .ereH * 
+.sdnammoc gnildnah si daerht niam eht .daerht elpitlum gnisu * 
+ stekcap gnidnes yltnednepedni si maerts eht ,notcnuf tini_maerts ht gnillac yb ,daerht etarepes a si maerts hcae * 
+ * 
+/* 
+)][vgra * rahc tsnoc ,cgra tni(niam tni
+{
+
+   ;)(ppAGTO wen = 1gto* ppAtibrO  
+
+{ yrt  
+    
+;1daerht t_daerhtp    
+;"pdu" = eman_locotorp* rahc    
+;"rbc" = eman_rotareneg* rahc    
+;LLUN = eman_golgubed* rahc    
+;1- = ferkcolc tni    
+;)ferkcolc& ,eman_golgubed& ,eman_rotareneg& ,eman_locotorp& ,vgra ,cgra(1esahPsnoitpOesrap    
+;)eman_locotorp(troPetaerc = trop *troP    
+;)eman_rotareneg(rotareneGetaerc = neg* rotareneG    
+  LMO ezilaitinI//  ;)eman_golgubed ,vgra ,cgra&(tini>-1gto    
+                ;)neg ,trop ,vgra ,cgra(2esahPsnoitpOesrap    
+;)(tini>-trop    
+;)(tini>-neg    
+    0.oN maerts tluafed//  ;)ferkcolc ,1gto ,trop ,neg ,0(maertS wen = rts* maertS    
+   ;)rts)* diov( ,noitcnuf_maerts_etaerc ,LLUN ,1daerht& (etaerc_daerhtp = 1tsc tni    
+               ;"...deliaF daerhT maertS a etaerC" worht)0=!1tsc( fi    
+daerht niam eht si siht// ;)rts(krow    
+
+{ ) nosaer* rahc tsnoc( hctac }  
+;ldne << nosaer << ":noitpecxE" << rrec    
+;)1-(tixe    
+  }  
+;0 nruter  
+}
+
+,sdaerht elpitlum htiw GTO eht ni smaerts eno naht erom trats ot eussi on si ereht taht detset evah I :etoN//
+.deen on fo si ti esuaceb won erutaef siht esu ot ton referp I tub//
+//
+{ = ][1esahp_emitnur_snoitpo noitpOtpop tcurts//
+PLEHOTUA_TPOP  //
+,}"REGETNI" ,"maerts fo DI" ,0 ,LLUN ,TNI_GRA_TPOP ,'0\' ,"maerts" {  //
+} 0 ,LLUN ,0 ,0 ,LLUN {  //
+;}//
+
+**/
+tcurts nA* 
+daerht maerts wen a etaerc rof retemaraP* 
+/* 
+
+marap_daerht_maerts tcurts//
+{//
+/* rotareneg eht ot retniop<!*/ ;_pg* rotareneG  //
+   /* trop ot retniop<!*/ ;_pp*      troP  //
+/*reifitnedi maerts!*/;_dimaerts trohs  //
+;}//
+
+.mune nA **/
+epyt rotareneg fo noitacidnI * 
+/* 
+ epyt_rotareneg mune//
+ {//
+  /* .ciffart RBC eulav munE <!*/         ,rbc  //
+    /* .ciffarT laitnenopxE eulav munE <!*/  laitnenopxe  //
+;}//
+
+
+*/  
+;1ps marap_daerht_maerts tcurts    
+   
+;neg = _pg.1ps    
+ ;trop = _pp.1ps    
+;2neg = _pg.2ps    
+/*    
+;2trop = _pp.2ps//    
+;1 =_dimaerts.1ps//    
+    ;2 =_dimaerts.2ps//    
+   smaerts owt etaerc ,sdaerht owt //    
+
+
+;rbc = epytg epyt_rotareneg//    
+;)(rotareneG_RBC wen = neg *rotareneG//    
+  snoitpo enildnammocyna esrap deen ton seod ,snoitpo tluafed 2neg//  ;)(rotareneG_RBC wen = 2neg *rotareneG//    
+;)"1lanretni"(emantsoHtsDtes>-2trop//     
+ ;)(tini>-2trop//    
+
+ snoitpo enildnammoc yna esrap deen ton seod ,snoitpo tluafed 2trop // ;)eman_locotorp(troPetaerc = 2trop *troP//    
+
+;)2ps&)* diov( ,noitcnuf_maerts_etaerc ,LLUN ,2daerht& (etaerc_daerhtp = 2tsc tni// 
+"h.noitacilppa_rto" edulcni#
+ "h.rto_balniw_tibro_lmo" edulcni#
+>gnirts< edulcni#
+
+>maertsoi< edulcni#
+>maertsf< edulcni#
+;dts ecapseman gnisu
+
+)(ppAtibrO://)(ppARTO::ppARTO
+{
+}
+
+**/
+Lmo ezlaitinI* 
+/* 
+
+)tpogol* rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppARTO diov
+{
+)LLUN == tpogol ( fi 
+{    
+;eurt = _LMOesu      
+;)LLUN ,vgra ,cgra(lmo_ezilaitini      
+}    
+esle 
+{   
+;eslaf = _LMOesu      
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf      
+))(nepo_si._pf( fi      
+{      
+ ;ldne << "etar issr emitxr ezistkp onqeswolf diwolf camrednes troprednes pirednes onqesmaerts dimaerts" << _pf        
+}      
+esle      
+	   {      
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht	
+;)1(tixe        
+}      
+}   
+}
+
+
+**/
+)LMO ot RTO( tnemerusaeM ttropeR LMO>---RTO * 
+/* 
+
+)p* tekcaP(tropeRrevieceRlmo::ppARTO diov
+{
+
+)_LMOesu( fi    
+(tropreviecer_lmo      
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(                    
+,)(emaNredneSteg>-_erusaeMxt>-p     //    		
+,)(troPredneSteg>-_erusaeMxt>-p )tni(//    		
+,)(CAMredneSteg>-_erusaeMxt>-p    //                    
+,)(dIwolFteg>-_erusaeMxr>-p)tni(                    
+,)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(//                    
+, )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(    		
+,)(emiTxRteg>-_erusaeMxr>-p)gnol(    		
+,)(ISSRteg>-_erusaeMxr>-p)tni(    		
+                ;) )(etaRtimXYHPteg>-_erusaeMxt>-p)tni(                    
+esle    
+                     {      
+;" "<< )(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(<< " "<< )(dImaertSteg>-_erusaeMxt>-p)tni(<< _pf	
+;" "<< )(troPredneSteg>-_erusaeMxt>-p )tni(<<" "<<)(emaNredneSteg>-_erusaeMxt>-p << _pf        
+;" "<<)(CAMredneSteg>-_erusaeMxt>-p << _pf        
+;" "<<)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(<< " " << )(dIwolFteg>-_erusaeMxr>-p)tni( << _pf        
+;" " <<)(emiTxRteg>-_erusaeMxr>-p)gnol( << " " << )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(  << _pf        
+   ;ldne<< )(etaRtimXYHPteg>-_erusaeMxt>-p)tni( << " " << )(ISSRteg>-_erusaeMxr>-p)tni(  << _pf        
+     }      
+}
+
+
+)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo::ppARTO diov
+{
+)_LMOesu( fi  
+ ,diwolf(wolf_lmo  
+,))(emantsoHteg>-rddAcrs  //      	
+        ;))(troPteg>-rddAcrs)tni(             
+}
+
+
+  */
+;)(dImaertSteg>-_erusaeMxt>-p <<  "  maerts :devieceR"  << tuoc  
+;)(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " qes " << tuoc  
+;)(emaNredneSteg>-_erusaeMxt>-p  << " rednes " << tuoc  
+;)(troPredneSteg>-_erusaeMxt>-p  << ":" << tuoc  
+;)(CAMredneSteg>-_erusaeMxt>-p << " CAM rednes " << tuoc  
+;)(dIwolFteg>-_erusaeMxr>-p <<  " wolF " << tuoc   
+;)(muNecneuqeSwolFteg>-_erusaeMxr>-p  <<  " qes " << tuoc   
+;)(htgneLdevieceRteg>-_erusaeMxr>-p << " htgnel " << tuoc  
+;)(emiTxRteg>-_erusaeMxr>-p << " emit "  << tuoc  
+;ldne << )(ISSRteg>-_erusaeMxr>-p  << " issr "  << tuoc  
+;ldne << )(etaRtimXYHPteg>-_erusaeMxt>-p  << " etartimX "  << tuoc 
+  
+/*
+
+
+H_NOITACILPPA_RTO fednfi#
+H_NOITACILPPA_RTO enifed#
+"h.ppatibro" edulcni#
+"h.knis" edulcni#
+"h.sserdda" edulcni#
+
+ppAtibrO cilbup : ppARTO ssalc
+{
+:cilbup 
+
+ ;)(ppARTO    
+;)tpogol *rahc ,][vgra*rahc tsnoc ,cgra* tni(tini diov    
+;}{)p* tekcaP(tropeRredneSlmo diov enilni    
+ ;)p* tekcaP(tropeRrevieceRlmo diov    
+ ;)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov    
+    
+:detcetorp 
+   
+;}
+
+fidne#
+
+***************************************************************************/ 
+revieceR ciffarT tibrO :RTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>maertsoi< edulcni#
+;dts ecapseman gnisu
+"h.knis" edulcni#
+"h.knisymmud" edulcni#
+"h.etagkcos" edulcni#
+"h.etag_kcospdu" edulcni#
+"h.etag_kcospct" edulcni#
+"h.etag_cambil_pct" edulcni#
+"h.etag_cambil_pdu" edulcni#
+"h.etag_cambil_rehte" edulcni#
+"h.etagrehte" edulcni#
+"h.rto_balniw_tibro_lmo" edulcni#//
+"h.noitacilppa_rto" edulcni#
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,}"]cambil_war[]cambil_pct[]cambil_pdu[]war[]pdu[]pct[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {    
+,}"]emanelif[" ,"goL tnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP  ,'0\' ,"golgubed" {    
+,}"sruoh" ,"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {    
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP   
+,} ")tekcoS( etaG gnivieceR" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,}"]cambil_war[]war[]cambil_pdu[]cambil_pct[]pdu[]pct[" ,"locotorp fo emaN" ,0 ,LLUN,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {   
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {   
+,}"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {   
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {   
+,} 0 ,LLUN ,0 ,0 ,LLUN {   
+;}
+
+
+**/
+epyT kniS dna locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+:epyt knis :ts marap@  * 
+/* 
+)ferkcolc *tni ,eman_gol **rahc ,eman_locotorp **rahc ,][vgra * rahc tsnoc ,cgra tni(1esahPsnoitpOesrap diov
+ {
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;eman_gol = gra.]2[1esahp_snoitpo  
+;ferkcolc = gra.]3[1esahp_snoitpo  
+
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+*/  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+ }  
+ /*  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+.desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rehto dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+)etag *etaG  ,][vgra * rahc tsnoc ,cgra tni(2esahPsnoitpOesrap diov
+{
+
+;)(snoitpOteg>-etag)*diov( = gra.]1[snoitpo  
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+
+/* ... snoitpo eht lla daeR */	 ;)0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;ldne << "!derongI snoitpO dezingocernU" << tuoc    
+}  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc  
+{ )LLUN =! revotfel( fi  
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1(tixe    
+}  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+)rto *ppAtibrO ,rht t_daerhtp ,etag *etaG ,gsm * rahc(snoitpOemitnuResrap diov
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[rts rahc  
+
+;nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + rts(ypcrts    
+;'-' = ]1[rts = ]0[rts    
+;rts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+;)TSRIF_PEEK_TXETNOC_TPOP ,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	
+;cr tni  
+ { )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1 == cr( fi    
+tixE dna potS //      
+;)rht(lecnac_daerhtp      
+;)(esolc>-rto      
+      ;)(etaGesolc>-etag      
+;)0(tixe      
+}    
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+
+	;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+)sdnammoc tupni resU( nidts gnildnah ot daerht niam ni noitncuF * 
+snoitpo emit-nur sa meht gnisraP * 
+/* 
+
+)(krow diov//
+{//
+}//  
+
+
+**/
+eman_locotorp eht no desab etaG a etaerc ot noitcnuF * 
+eman locotorp :eman_locotorp marap@ * 
+detaerc etag eht nruter@ * 
+/* 
+
+)eman_locotorp *rahc(etaGetaerc *etaG
+{
+   ;LLUN = etag *etaG  
+
+{) 0 == )"pdu" ,eman_locotorp(pmcrts( fi  
+ ;)(etaGkcoSPDU wen = etag    
+{)0 == ) "pct" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGkcoSPCT wen = etag    
+{)0 == )"cambil_pct" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLPCT wen = etag    
+{)0 == )"cambil_pdu" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLPDU wen = etag    
+{)0 == )"war" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGtenrehtE wen = etag    
+{)0 == )"cambil_war" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLtenrehtE wen = etag    
+{ esle }  
+;ldne << ".'" << eman_locotorp << "' locotorp nwonknU :rorrE" << rrec    
+;)1-(tixe    
+ }  
+;etag nruter  
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (daerht_eviecer_etaerc* diov
+{
+;rtp )* etaG( = arap* etaG     
+  ;)(evieceRtrats>-arap     
+;LLUN nruter     
+}
+
+**/
+.RTO eht fo noticnuf niaM  * 
+:seod tI  * 
+.snoitpo enil-dnammmoc no sesab )s(etaG etaerc -  * 
+gnivecer trats ot setag eht tseuqeR -  * 
+nevig si dnammoc "tixe" fi sdaerht lla etanimret dna tupni emitnur esrap -  * 
+/* 
+
+)][vgra * rahc tsnoc ,cgra tni(niam tni
+{
+;)(ppARTO wen = 1rto * ppAtibrO  
+
+       { yrt  
+;1daerht t_daerhtp  
+;"pdu" = eman_locotorp* rahc  
+;LLUN = eman_golgubed* rahc  
+;1- = ferkcolc tni  
+;)ferkcolc& ,eman_golgubed& ,eman_locotorp& ,vgra ,cgra(1esahPsnoitpOesrap  
+;)eman_locotorp(etaGetaerc = etag *etaG  
+ knis ymmud etaerc//  
+;)(kniSymmuD wen  = nis* kniS  
+;)eman_golgubed ,vgra ,cgra&(tini>-1rto  
+;)etag ,vgra ,cgra(2esahPsnoitpOesrap  
+;)ferkcolc ,nis,1rto(etaGgifnoc>-etag  
+;)(tini>-etag  
+) 0 =! )etag)*diov( ,daerht_eviecer_etaerc,LLUN ,1daerht& (etaerc_daerhtp ( fi  
+  ;"...deliaF daerhT etaerC" worht         
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)1rto ,1daerht ,etag ,gsm(snoitpOemitnuResrap        
+}  
+
+{ ) nosaer* rahc tsnoc ( hctac}  
+;ldne << nosaer << ":noitpecxE" << rrec    
+;)1-(tixe    
+}  
+
+;0 nruter  
+}
+
+
+
+
+
+
+>h.oidts< edulcni#
+>h.gnirts< edulcni#
+>h.ni/teniten< edulcni#
+"h.tekcap" edulcni#
+
+**/
+rotcurtsnoC * 
+/* 
+
+)(maraPdneS::maraPdneS
+{
+;0 =_munqes  
+;LLUN= _rddarednes//  
+;]05[rahc wen = _rddarednes  
+;]02[rahc wen =_camrednes  
+ ;0 = _rewopxt   
+ ;0 =_lennahc   
+   ;;0 =_dimaerts  
+ ;0 = _emitxt  
+;0 =_emitxtcam  
+;0 =_onqes_pct  
+;0 = _tropxt  
+;0=_etarxt  
+}saeMxr  
+;0 = _ezis  
+;htgnel_reffub = _htgnel  
+;0  =  _emit  
+;]htgnel_reffub[rahc wen = _daolyap  
+}
+ **/
+.ezis tekcap tes * 
+ ,reffub tlufed a sah ydaerla tekcap sA * 
+daolyap eht enimreted ot syaw owt era ereht * 
+eziSdaolyaPteS >-- si ti sa eb daolyap eht tel ,ylno ezis tes -  * 
+.ezis reffub daolyap eht tsujda ,yrassecen fi #-   * 
+ )...snoitacilppA oediV dna oiduA rof  .g.e( atad cicifeps htiw daolyap eht llif osla dna ezis tes -  * 
+daolyaPllif  ees@ * 
+/* 
+
+)ezis tni(eziSdaolyaPtes::tekcaP diov
+{
+;ezis  = _ezis  
+{ )_htgnel > ezis( fi  
+;_daolyap ][ eteled )LLUN =! _daolyap( fi    
+;)ezis * 5.1()tni( = _htgnel    
+;]_htgnel[rahc wen  = _daolyap    
+}  
+}
+
+ **/ 
+.daolyap llif ot noitcnuf A  *  
+...kcabyalp oediv/oidua ekil snoitacilppa rof daolyap fo tnetnoc eht yficeps nac resu  *  
+/*  
+)maertstupni* rahc ,ezis tni(daolyaPllif::tekcaP tni
+{
+;)ezis(eziSdaolyaPtes  
+{ )LLUN == )ezis  ,maertstupni)* rahc( ,_daolyap)* rahc((ypcmem( fi  
+;"deliaF daolyap lliF" worht    
+}  
+;0 nruter  
+}
+
+**/
+.daolyap fo setyb wef tsrif eht ni reifitneDI tekcap na tup ot noitcnuf A  * 
+onqes dna di maerts fo noitanibmoc na si ti  * 
+* 
+gnippmats eht nigeb ot noitisop eht :tesffo marap@  * 
+depmats eb ot eulav eht  :lav marap@  * 
+.eslaf esiwrehto,lufsseccus fi EURT nruter@  * 
+
+.regetni gnol  dengisnu na erots ot desu si stetco 8 tsrif ehT  * 
+.setyb 8 naht regnol ton si tekcap eht taht si eruliaf pmats a rof nosaer ehT  * 
+/* 
+
+)lav gnol dengisnu ,tesffo tni(laVgnoLpmats::tekcaP loob
+{
+;eslaf nruter ) tesffo +8 < _ezis ( fi   
+;tesffo =+ _daolyap   
+;)lav(lnoth = )_daolyap)* gnol dengisnu((*   
+;tesffo =- _daolyap   
+;eurt nruter  
+}
+
+)lav trohs dengisnu ,tesffo tni(laVtrohSpmats::tekcaP loob
+{
+;eslaf nruter ) tesffo + 2 < _ezis ( fi   
+;tesffo =+ _daolyap   
+;)lav(snoth = )_daolyap)* gnol dengisnu((*   
+;tesffo =- _daolyap   
+;eurt nruter  
+}
+
+tekcap deviecer fo daolyap eht morf noitamrofni tekcap emos revocer ot noitcnuf A **/
+,daolyap eht ni noitamrofni emos pmats thgim noitacilppa gnidnes eht sA * 
+noitcnuf siht esu ot luferac eb os * 
+  * 
+/* 
+)tesffo tni(laVtrohStcartxe::tekcaP trohs dengisnu
+{
+;lavter trohs dengisnu  
+;tesffo =+ _daolyap  
+;)) _daolyap)* trohs dengisnu((*(shotn  = lavter  
+;tesffo =- _daolyap  
+  ;lavter nruter  
+}
+
+)tesffo tni(laVgnoLtcartxe::tekcaP gnol dengisnu
+{
+;lavter gnol dengisnu  
+;tesffo =+ _daolyap  
+;)) _daolyap)* gnol dengisnu((*(lhotn  = lavter  
+;tesffo =- _daolyap  
+  ;lavter nruter  
+}
+
+**/
+.daolyap fo setyb wef tsrif eht ni reifitneDI tekcap na tup ot noitcnuf A  * 
+onqes dna di maerts fo noitanibmoc na si ti  * 
+.regetni gnol  dengisnu na erots ot desu si stetco 8  gniwollof ehT  * 
+.setyb 8 naht regnol ton si tekcap eht taht si eruliaf pmats a rof nosaer ehT  * 
+/* 
+
+)(DItkPpmats::tekcaP loob
+{
+;eslaf nruter )eslaf == ))(dImaertSteg>-_erusaeMxt,0(laVtrohSpmats( fi  
+;))(muNecneuqeSmaertSteg>-_erusaeMxt,2(laVgnoLpmats  nruter  
+}
+
+)(DItkPtcartxe::tekcaP diov
+{
+;))0(laVtrohStcartxe(dImaertStes>-_erusaeMxt  
+;))2(laVgnoLtcartxe(muNecneuqeSmaertStes>-_erusaeMxt  
+}
+
+
+
+
+>h.gnirts< edulcni#
+H_TEKCAP_GTO fednfi#
+H_TEKCAP_GTO enifed#
+
+.tekcap eht htiw stnemerusaem emos gnidnib rof ssalc yrallixua nA**/
+ereh sretemarap XT elbissop lla tsil ew ,yltnerruC * 
+/* 
+maraPdneS ssalc
+{
+:cilbup 
+;)(maraPdneS   
+:etavirp 
+     
+      regetni ot dednuor ,mbd </// ;_rewopxt tni   
+)esu sseleriw rof( )lanoitpo( g/b/a 11.208 ni rebmun lennahc sseleriw </// ;_lennahc trohs   
+di maerts eht<///  ;_dimaerts trohs   
+maerts eht yb dehcatta rebmun ecneuqes <///     ;_munqes gnol   
+      sdnocesillim ni gnimit timsnart<///  ;_emitxt elbuod   
+sdnocesorcim ni ,dereviled si tekcap eht nehw wohs ot revird eht yb tes si retemarap siht</// ;_emitxtcam gnol   
+.tnes ot desu si troP PCT fi rebmun ecneuqes s'trop PCT redaeh PCT ni rebmun ecneuqeS eht ///  ;_onqes_pct gnol   
+;_tropxt trohs   
+)esu sseleriw rof( )lanoitpo( rednes eht yb desu etar lennahc ehT///    ;_etarxt trohs   
+rednes eht fo sserdda PI/// ;_rddarednes* rahc   
+rednes eht fo sserdda CAM ///  ;_camrednes* rahc   
+ 
+:cilbup 
+};_dimaerts nruter{)(dImaertSteg trohs enilni   
+};i = _dimaerts{)i trohs(dImaertStes diov enilni   
+};_munqes nruter{)(muNecneuqeSmaertSteg gnol dengisnu enilni   
+};i = _munqes{)i gnol dengisnu(muNecneuqeSmaertStes diov enilni   
+} ;sm = _emitxt {)sm elbuod(emiTxTtes diov enilni   
+};_emitxt nruter{)(emiTxTteg elbuod enilni   
+} ;)rts,_rddarednes(ypcrts {)rts* rahc(emaNredneStes diov enilni   
+ } ;_rddarednes nruter{ )(emaNredneSteg *rahc enilni   
+} ;)rts,_camrednes(ypcrts {)rts* rahc(CAMredneStes diov enilni   
+ } ;_camrednes nruter{ )(CAMredneSteg *rahc enilni   
+};trop = _tropxt { )trop trohs(troPredneStes diov enilni   
+};_tropxt nruter {)(troPredneSteg trohs enilni   
+};etar = _etarxt{)etar trohs(etaRtimXYHPtes  diov enilni   
+};_etarxt nruter{)(etaRtimXYHPteg trohs enilni   
+
+;}
+
+ deificeps-reviecer emos gnidnib rof ssalc yrallixua nA**/
+.tekcap eht htiw stnemerusaem * 
+ereh sretemarap XR elbissop lla tsil ew ,yltnerruC * 
+/* 
+
+maraPevieceR ssalc
+{
+:cilbup 
+;)(maraPevieceR      
+     :etavirp 
+ tkecap deviecer fo YHP sseleriW morf eulav ISSR <///   ;_issr trohs      
+tekcap deviecer fo YHP sseleriW morf eulav esioN <///  ;_esion trohs      
+.tekcap eht devicer hcihw wolf ehT fo dI<///   ;_diwolf tni      
+ .tuphguorht wolf eht llet ylticilpmi lliw eulav sihT .wolf eht yb dehcatta rebmun ecneuqes ehT<///   ;_onqes gnol      
+tekcap eht sehctac XR_CAM nehw epmatsemit ehT</// ;_emitxrcam gnol      
+sdnocesillim ni ,etaG eht yb deviecer si tekap eht nehw emit ehT < ///    ;_emitxr elbuod      
+.tekcap deviecer fo ezis lautca ehT ///   ;_ezis_xr tni      
+reviecer eht fo sserdda PI///  ;_rddareviecer* rahc      
+.elbacilppa fi ,rebmun troP<///   ;_tropxr trohs      
+  
+:cilbup 
+};_diwolf nruter{)(dIwolFteg trohs enilni   
+};i = _diwolf{)i trohs(dIwolFtes diov enilni   
+};_onqes nruter{)(muNecneuqeSwolFteg gnol dengisnu enilni   
+};i = _onqes{)i gnol dengisnu(muNecneuqeSwolFtes diov enilni   
+} ;sm = _emitxr {)sm elbuod(emiTxRtes diov enilni   
+};_emitxr nruter{)(emiTxRteg elbuod enilni   
+};_ezis_xr nruter{ )(htgneLdevieceRteg tni enilni   
+};el = _ezis_xr{)el tni(htgneLdevieceRtes diov enilni   
+} ;issr=_issr{)issr trohs(ISSRtes diov enilni   
+};_issr nruter{ )(ISSRteg trohs enilni   
+;}
+
+
+**/
+.rotareneg yb nevig ytitne na si tekcaP * 
+seirrac ylno ssalc tekcap sihT * 
+.ti htiw tekcap siht ot detaler stnmerusaem lla yrrac dluow tekcap eht ,oslA .noitamrofni sserdda tekcos yna ton ,pmatsemit gnidnes a dna noitamrofni daolyap * 
+/* 
+{ tekcaP ssalc
+ 
+:cilbup
+**/  
+setyB 215 si ezis daolyap tluafeD  *   
+
+;}  ;0.0063*sruoh = _nigiro_sba)0>sruoh( fi{)sruoh tni(nigirOetulosbAtes diov enilni   
+ ;)(emiTtnerruCteg elbuod   
+;)(kcolCesuap  loob   
+;)(kcolCemuser  loob   
+**/   
+.emit lanigro eht tfihs ot noitcnuF *    
+/*    
+};emittfihs =+ _nigiro {)emittfihs elbuod(nigirOtfihs diov enilni   
+;)pmatsemit elbuod(tAtiaw diov   
+        	          
+:etavirp 
+kcolc metsys fo sdnoces fo tinu eht ni era gnimit .emit lanigiro <///  ;_nigiro  elbuod   
+emit etulosba etaluclac ot tesffo emit gnitrats </// ;_nigiro_sba  elbuod   
+desuap si kcolc eht nehw )emit evitaler( emit kcolc ehT <///  ;_tnatsniesuap  elbuod   
+won desuap si kcolc eht fi etacidni ot galf A <///    ;_desuap    loob   
+;}
+
+fidne#
+H_PPA_TIBRO fednfi#
+H_PPA_TIBRO enifed#
+
+"h.tekcap" edulcni#
+"h.sserdda" edulcni#
+>maertsf< edulcni#
+;dts ecapseman gnisu
+snoitacilppa desab-GTO fo sdnik lla rof ssalc esab tcartsbA **/
+noitacilppa tnereffid rof sgnittes lmo tnereffid evired ew wolla ngised sihT * 
+LMO ffo nrut ot noitpo na sedivorp osla * 
+/* 
+
+ppAtibrO ssalc
+     {
+:cilbup
+}{)(ppAtibrO enilni   
+}{)(ppAtibrO~ lautriv   
+;0 =)tpogol *rahc ,][vgra *rahc tsnoc ,cgra* tni(tini diov lautriv   
+};)(esolc._pf)_LMOesu!(fi{ )( esolc diov enilni   
+;0 =)p* tekcaP(tropeRredneSlmo diov lautriv   
+; 0 =)p* tekcaP(tropeRrevieceRlmo diov lautriv   
+;0=)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov lautriv   
+:detcetorp 
+;_emaNppa *rahc   
+noitargetni LMO ffo/no nrut<///  ;_LMOesu loob   
+gol gubed fo eman elif</// ;_pf maertsf   
+;}
+
+
+fidne#
+"h.noitacilppa_fto" edulcni#
+ "h.fto_balniw_tibro_lmo" edulcni#
+
+)(ppAFTO::ppAFTO
+{
+  
+}
+
+
+**/
+Lmo ezlaitinI * 
+/* 
+
+)tpogol *rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppAFTO diov
+{
+{)LLUN == tpogol ( fi     
+;eurt = _LMOesu           
+;)LLUN ,vgra ,cgra(lmo_ezilaitini           
+}     
+esle     
+{     
+;eslaf = _LMOesu           
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf           
+))(nepo_si._pf( fi   	
+{   	
+;ldne << "etar issr emitxr ezistkp onqeswolf diwolf camrednes troprednes pirednes onqesmaerts dimaerts" << _pf      	
+}           
+esle           
+{           
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht              	
+;)1(tixe              		
+}           
+   				
+   	}     
+}
+
+
+**/
+)LMO ot revieceR FTO( tnemerusaeM ttropeR LMO>---FTO * 
+/* 
+
+)p* tekcaP(tropeRrevieceRlmo::ppAFTO diov
+{
+)_LMOesu! (fi
+ 	{
+  
+;" "<< )(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(<< " "<< )(dImaertSteg>-_erusaeMxt>-p)tni(<< _pf 
+;" "<< )(troPredneSteg>-_erusaeMxt>-p )tni(<<" "<<)(emaNredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(CAMredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(<< " " << )(dIwolFteg>-_erusaeMxr>-p)tni( << _pf 
+;" " <<)(emiTxRteg>-_erusaeMxr>-p)gnol( << " " << )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(  << _pf 
+;ldne<< )(etaRtimXYHPteg>-_erusaeMxt>-p)tni( << " " << )(ISSRteg>-_erusaeMxr>-p)tni(  << _pf 
+	
+}
+esle
+,)(dImaertSteg>-_erusaeMxt>-p)tni(// (reviecerfto_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(//                    
+,)(emaNredneSteg>-_erusaeMxt>-p     //    		
+,)(troPredneSteg>-_erusaeMxt>-p )tni(//    		
+,)(CAMredneSteg>-_erusaeMxt>-p    //                    
+,)(dIwolFteg>-_erusaeMxr>-p)tni(                    
+,)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(                    
+, )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(    		
+,)(emiTxRteg>-_erusaeMxr>-p)gnol(    		
+,)(ISSRteg>-_erusaeMxr>-p)tni(    		
+                ;) )(etaRtimXYHPteg>-_erusaeMxt>-p)tni(                    
+   
+  
+}
+
+)p* tekcaP(tropeRredneSlmo::ppAFTO diov
+{
+  
+*/  
+;)(pmatSemiTteg>-p << " emit reviled tekcaP detcepxE" << tuoc 
+su ni pmatsemit xt//;)(emiTxTteg>-_erusaeMxt>-_p <<" emit ta tekcap a dnes " << tuoc  
+;)(eziSdaolyaPteg>-p << " ezis fo tekcaP a gnidneS " << tuoc  
+;)(dImaertSteg>-_erusaeMxt>-p << " di maertS " << tuoc  
+ ;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " DI ecneuqeS " << tuoc  
+ /* 
+  
+)_LMOesu(fi  
+,))(dImaertSteg>-_erusaeMxt>-p()tni(  (troprednes_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p                   
+,)(eziSdaolyaPteg>-p                   
+,))(pmatSemiTteg>-p()gnol(   		
+;) )(emiTxTteg>-_erusaeMxt>-p)gnol(                   
+
+}
+
+H_NOITACILPPA_FTO fednfi#
+H_NOITACILPPA_FTO enifed#
+"h.ppatibro" edulcni#
+
+ppAtibrO cilbup : ppAFTO ssalc
+{
+:cilbup 
+
+;)(ppAFTO    
+;)goltpo *rahc ,][vgra*rahc tsnoc ,cgra* tni(tini diov    
+;)p* tekcaP(tropeRredneSlmo diov    
+;)p* tekcaP(tropeRrevieceRlmo diov    
+   ;}{)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov enilni    
+;}
+
+fidne#
+***************************************************************************/ 
+redrawroF ciffarT tibrO :FTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot    
+;}  
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP   
+,} "etaG" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,} "troP" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {   
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {   
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {   
+,} 0 ,LLUN ,0 ,0 ,LLUN {   
+;}
+
+**/
+seciohc rehto on ,cambil_war ro war esu ot retehw( locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+/* 
+)emangol ** rahc ,eman_locotorp **rahc ,][vgra * rahc tsnoc ,cgra tni(1esahPsnoitpOesrap diov
+ {
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;emangol = gra.]2[1esahp_snoitpo  
+  
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+ }  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rehto dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+)etag *etaG  ,trop *troP ,][vgra * rahc tsnoc ,cgra tni(snoitpOesrap diov
+{
+
+;)(snoitpOteg>-etag)*diov( = gra.]1[snoitpo  
+ ;)(snoitpOteg>-trop)*diov( = gra.]2[snoitpo  
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+
+/* ... snoitpo eht lla daeR */	 ;)0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;ldne << "!derongI snoitpO dezingocernU" << tuoc    
+}  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc  
+{ )LLUN =! revotfel( fi  
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1(tixe    
+}  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+)troprht t_daerhtp ,etagrht t_daerhtp ,euq *eueuQataD ,trop *troP ,etag *etaG ,gsm * rahc(snoitpOemitnuResrap diov
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[rts rahc  
+
+;nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + rts(ypcrts    
+;'-' = ]1[rts = ]0[rts    
+;rts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+	;)TSRIF_PEEK_TXETNOC_TPOP ,emitn
+;}  ;0.0063*sruoh = _nigiro_sba)0>sruoh( fi{)sruoh tni(nigirOetulosbAtes diov enilni   
+ ;)(emiTtnerruCteg elbuod   
+;)(kcolCesuap  loob   
+;)(kcolCemuser  loob   
+**/   
+.emit lanigro eht tfihs ot noitcnuF *    
+/*    
+};emittfihs =+ _nigiro {)emittfihs elbuod(nigirOtfihs diov enilni   
+;)pmatsemit elbuod(tAtiaw diov   
+        	          
+:etavirp 
+kcolc metsys fo sdnoces fo tinu eht ni era gnimit .emit lanigiro <///  ;_nigiro  elbuod   
+emit etulosba etaluclac ot tesffo emit gnitrats </// ;_nigiro_sba  elbuod   
+desuap si kcolc eht nehw )emit evitaler( emit kcolc ehT <///  ;_tnatsniesuap  elbuod   
+won desuap si kcolc eht fi etacidni ot galf A <///    ;_desuap    loob   
+;}
+
+fidne#
+H_PPA_TIBRO fednfi#
+H_PPA_TIBRO enifed#
+
+"h.tekcap" edulcni#
+"h.sserdda" edulcni#
+>maertsf< edulcni#
+;dts ecapseman gnisu
+snoitacilppa desab-GTO fo sdnik lla rof ssalc esab tcartsbA **/
+noitacilppa tnereffid rof sgnittes lmo tnereffid evired ew wolla ngised sihT * 
+LMO ffo nrut ot noitpo na sedivorp osla * 
+/* 
+
+ppAtibrO ssalc
+     {
+:cilbup
+}{)(ppAtibrO enilni   
+}{)(ppAtibrO~ lautriv   
+;0 =)tpogol *rahc ,][vgra *rahc tsnoc ,cgra* tni(tini diov lautriv   
+};)(esolc._pf)_LMOesu!(fi{ )( esolc diov enilni   
+;0 =)p* tekcaP(tropeRredneSlmo diov lautriv   
+; 0 =)p* tekcaP(tropeRrevieceRlmo diov lautriv   
+;0=)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov lautriv   
+:detcetorp 
+;_emaNppa *rahc   
+noitargetni LMO ffo/no nrut<///  ;_LMOesu loob   
+gol gubed fo eman elif</// ;_pf maertsf   
+;}
+
+
+fidne#
+"h.noitacilppa_fto" edulcni#
+ "h.fto_balniw_tibro_lmo" edulcni#
+
+)(ppAFTO::ppAFTO
+{
+  
+}
+
+
+**/
+Lmo ezlaitinI * 
+/* 
+
+)tpogol *rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppAFTO diov
+{
+{)LLUN == tpogol ( fi     
+;eurt = _LMOesu           
+;)LLUN ,vgra ,cgra(lmo_ezilaitini           
+}     
+esle     
+{     
+;eslaf = _LMOesu           
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf           
+))(nepo_si._pf( fi   	
+{   	
+;ldne << "etar issr emitxr ezistkp onqeswolf diwolf camrednes troprednes pirednes onqesmaerts dimaerts" << _pf      	
+}           
+esle           
+{           
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht              	
+;)1(tixe              		
+}           
+   				
+   	}     
+}
+
+
+**/
+)LMO ot revieceR FTO( tnemerusaeM ttropeR LMO>---FTO * 
+/* 
+
+)p* tekcaP(tropeRrevieceRlmo::ppAFTO diov
+{
+)_LMOesu! (fi
+ 	{
+  
+;" "<< )(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(<< " "<< )(dImaertSteg>-_erusaeMxt>-p)tni(<< _pf 
+;" "<< )(troPredneSteg>-_erusaeMxt>-p )tni(<<" "<<)(emaNredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(CAMredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(<< " " << )(dIwolFteg>-_erusaeMxr>-p)tni( << _pf 
+;" " <<)(emiTxRteg>-_erusaeMxr>-p)gnol( << " " << )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(  << _pf 
+;ldne<< )(etaRtimXYHPteg>-_erusaeMxt>-p)tni( << " " << )(ISSRteg>-_erusaeMxr>-p)tni(  << _pf 
+	
+}
+esle
+,)(dImaertSteg>-_erusaeMxt>-p)tni(// (reviecerfto_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(//                    
+,)(emaNredneSteg>-_erusaeMxt>-p     //    		
+,)(troPredneSteg>-_erusaeMxt>-p )tni(//    		
+,)(CAMredneSteg>-_erusaeMxt>-p    //                    
+,)(dIwolFteg>-_erusaeMxr>-p)tni(                    
+,)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(                    
+, )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(    		
+,)(emiTxRteg>-_erusaeMxr>-p)gnol(    		
+,)(ISSRteg>-_erusaeMxr>-p)tni(    		
+                ;) )(etaRtimXYHPteg>-_erusaeMxt>-p)tni(                    
+   
+  
+}
+
+)p* tekcaP(tropeRredneSlmo::ppAFTO diov
+{
+  
+*/  
+;)(pmatSemiTteg>-p << " emit reviled tekcaP detcepxE" << tuoc 
+su ni pmatsemit xt//;)(emiTxTteg>-_erusaeMxt>-_p <<" emit ta tekcap a dnes " << tuoc  
+;)(eziSdaolyaPteg>-p << " ezis fo tekcaP a gnidneS " << tuoc  
+;)(dImaertSteg>-_erusaeMxt>-p << " di maertS " << tuoc  
+ ;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " DI ecneuqeS " << tuoc  
+ /* 
+  
+)_LMOesu(fi  
+,))(dImaertSteg>-_erusaeMxt>-p()tni(  (troprednes_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p                   
+,)(eziSdaolyaPteg>-p                   
+,))(pmatSemiTteg>-p()gnol(   		
+;) )(emiTxTteg>-_erusaeMxt>-p)gnol(                   
+
+}
+
+H_NOITACILPPA_FTO fednfi#
+H_NOITACILPPA_FTO enifed#
+"h.ppatibro" edulcni#
+
+ppAtibrO cilbup : ppAFTO ssalc
+{
+:cilbup 
+
+;)(ppAFTO    
+;)goltpo *rahc ,][vgra*rahc tsnoc ,cgra* tni(tini diov    
+;)p* tekcaP(tropeRredneSlmo diov    
+;)p* tekcaP(tropeRrevieceRlmo diov    
+   ;}{)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov enilni    
+;}
+
+fidne#
+***************************************************************************/ 
+redrawroF ciffarT tibrO :FTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>maertsoi< edulcni#
+"h.maerts" edulcni#
+"h.eueuqatad" edulcni#
+"h.knis_eueuq" edulcni#
+"h.rotareneg_eueuq" edulcni#
+;dts ecapseman gnisu
+"h.etagrehte" edulcni#
+"h.troprehte" edulcni#
+"h.etag_cambil_rehte" edulcni#
+"h.noitacilppa_fto" edulcni#
+"h.fto_balniw_tibro_lmo" edulcni#//
+"h.gto_balniw_tibro_lmo" edulcni#//
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+
+
+{ = ][emitnur_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {    
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {    
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP   
+,} "etaG" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,} "troP" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {   
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {   
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {   
+,} 0 ,LLUN ,0 ,0 ,LLUN {   
+;}
+
+**/
+seciohc rehto on ,cambil_war ro war esu ot retehw( locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+/* 
+)emangol ** rahc ,eman_locotorp **rahc ,][vgra * rahc tsnoc ,cgra tni(1esahPsnoitpOesrap diov
+ {
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;emangol = gra.]2[1esahp_snoitpo  
+  
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+ }  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rehto dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+)etag *etaG  ,trop *troP ,][vgra * rahc tsnoc ,cgra tni(snoitpOesrap diov
+{
+
+;)(snoitpOteg>-etag)*diov( = gra.]1[snoitpo  
+ ;)(snoitpOteg>-trop)*diov( = gra.]2[snoitpo  
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+
+/* ... snoitpo eht lla daeR */	 ;)0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;ldne << "!derongI snoitpO dezingocernU" << tuoc    
+}  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc  
+{ )LLUN =! revotfel( fi  
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1(tixe    
+}  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+)troprht t_daerhtp ,etagrht t_daerhtp ,euq *eueuQataD ,trop *troP ,etag *etaG ,gsm * rahc(snoitpOemitnuResrap diov
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[rts rahc  
+
+;nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + rts(ypcrts    
+;'-' = ]1[rts = ]0[rts    
+;rts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+	;)TSRIF_PEEK_TXETNOC_TPOP ,emitnur_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+;cr tni  
+ { )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1 == cr( fi    
+tixE dna potS //      
+;)etagrht(lecnac_daerhtp      
+;)(etaGesolc>-etag      
+;)troprht(lecnac_daerhtp      
+;)(troPesolc>-trop      
+;euq eteled      
+;)1(tixe      
+}    
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+	;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+*/
+) rtp* diov (daerht_emitnur_eldnah_etaerc* diov
+{
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)gsm(snoitpOemitnuResrap        
+     }  
+}
+/*
+
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (daerht_eviecer_etaerc* diov
+{
+;rtp )* etaG( = arap* etaG     
+  ;)(evieceRtrats>-arap     
+;LLUN nruter     
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (noitcnuf_maerts_etaerc* diov
+{
+;rtp )* maertS( = arap* maertS     
+  ;)(maertStrats>-arap     
+;LLUN nruter     
+}
+
+
+**/
+.FTO eht fo noticnuf niaM ehT  * 
+:seod tI  * 
+.troP eno dna )ton ro cambiL htiw( etaG eno etaerc -  * 
+;}  ;0.0063*sruoh = _nigiro_sba)0>sruoh( fi{)sruoh tni(nigirOetulosbAtes diov enilni   
+ ;)(emiTtnerruCteg elbuod   
+;)(kcolCesuap  loob   
+;)(kcolCemuser  loob   
+**/   
+.emit lanigro eht tfihs ot noitcnuF *    
+/*    
+};emittfihs =+ _nigiro {)emittfihs elbuod(nigirOtfihs diov enilni   
+;)pmatsemit elbuod(tAtiaw diov   
+        	          
+:etavirp 
+kcolc metsys fo sdnoces fo tinu eht ni era gnimit .emit lanigiro <///  ;_nigiro  elbuod   
+emit etulosba etaluclac ot tesffo emit gnitrats </// ;_nigiro_sba  elbuod   
+desuap si kcolc eht nehw )emit evitaler( emit kcolc ehT <///  ;_tnatsniesuap  elbuod   
+won desuap si kcolc eht fi etacidni ot galf A <///    ;_desuap    loob   
+;}
+
+fidne#
+H_PPA_TIBRO fednfi#
+H_PPA_TIBRO enifed#
+
+"h.tekcap" edulcni#
+"h.sserdda" edulcni#
+>maertsf< edulcni#
+;dts ecapseman gnisu
+snoitacilppa desab-GTO fo sdnik lla rof ssalc esab tcartsbA **/
+noitacilppa tnereffid rof sgnittes lmo tnereffid evired ew wolla ngised sihT * 
+LMO ffo nrut ot noitpo na sedivorp osla * 
+/* 
+
+ppAtibrO ssalc
+     {
+:cilbup
+}{)(ppAtibrO enilni   
+}{)(ppAtibrO~ lautriv   
+;0 =)tpogol *rahc ,][vgra *rahc tsnoc ,cgra* tni(tini diov lautriv   
+};)(esolc._pf)_LMOesu!(fi{ )( esolc diov enilni   
+;0 =)p* tekcaP(tropeRredneSlmo diov lautriv   
+; 0 =)p* tekcaP(tropeRrevieceRlmo diov lautriv   
+;0=)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov lautriv   
+:detcetorp 
+;_emaNppa *rahc   
+noitargetni LMO ffo/no nrut<///  ;_LMOesu loob   
+gol gubed fo eman elif</// ;_pf maertsf   
+;}
+
+
+fidne#
+"h.noitacilppa_fto" edulcni#
+ "h.fto_balniw_tibro_lmo" edulcni#
+
+)(ppAFTO::ppAFTO
+{
+  
+}
+
+
+**/
+Lmo ezlaitinI * 
+/* 
+
+)tpogol *rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppAFTO diov
+{
+{)LLUN == tpogol ( fi     
+;eurt = _LMOesu           
+;)LLUN ,vgra ,cgra(lmo_ezilaitini           
+}     
+esle     
+{     
+;eslaf = _LMOesu           
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf           
+))(nepo_si._pf( fi   	
+{   	
+;ldne << "etar issr emitxr ezistkp onqeswolf diwolf camrednes troprednes pirednes onqesmaerts dimaerts" << _pf      	
+}           
+esle           
+{           
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht              	
+;)1(tixe              		
+}           
+   				
+   	}     
+}
+
+
+**/
+)LMO ot revieceR FTO( tnemerusaeM ttropeR LMO>---FTO * 
+/* 
+
+)p* tekcaP(tropeRrevieceRlmo::ppAFTO diov
+{
+)_LMOesu! (fi
+ 	{
+  
+;" "<< )(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(<< " "<< )(dImaertSteg>-_erusaeMxt>-p)tni(<< _pf 
+;" "<< )(troPredneSteg>-_erusaeMxt>-p )tni(<<" "<<)(emaNredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(CAMredneSteg>-_erusaeMxt>-p << _pf 
+;" "<<)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(<< " " << )(dIwolFteg>-_erusaeMxr>-p)tni( << _pf 
+;" " <<)(emiTxRteg>-_erusaeMxr>-p)gnol( << " " << )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(  << _pf 
+;ldne<< )(etaRtimXYHPteg>-_erusaeMxt>-p)tni( << " " << )(ISSRteg>-_erusaeMxr>-p)tni(  << _pf 
+	
+}
+esle
+,)(dImaertSteg>-_erusaeMxt>-p)tni(// (reviecerfto_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(//                    
+,)(emaNredneSteg>-_erusaeMxt>-p     //    		
+,)(troPredneSteg>-_erusaeMxt>-p )tni(//    		
+,)(CAMredneSteg>-_erusaeMxt>-p    //                    
+,)(dIwolFteg>-_erusaeMxr>-p)tni(                    
+,)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(                    
+, )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(    		
+,)(emiTxRteg>-_erusaeMxr>-p)gnol(    		
+,)(ISSRteg>-_erusaeMxr>-p)tni(    		
+                ;) )(etaRtimXYHPteg>-_erusaeMxt>-p)tni(                    
+   
+  
+}
+
+)p* tekcaP(tropeRredneSlmo::ppAFTO diov
+{
+  
+*/  
+;)(pmatSemiTteg>-p << " emit reviled tekcaP detcepxE" << tuoc 
+su ni pmatsemit xt//;)(emiTxTteg>-_erusaeMxt>-_p <<" emit ta tekcap a dnes " << tuoc  
+;)(eziSdaolyaPteg>-p << " ezis fo tekcaP a gnidneS " << tuoc  
+;)(dImaertSteg>-_erusaeMxt>-p << " di maertS " << tuoc  
+ ;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " DI ecneuqeS " << tuoc  
+ /* 
+  
+)_LMOesu(fi  
+,))(dImaertSteg>-_erusaeMxt>-p()tni(  (troprednes_lmo  
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p                   
+,)(eziSdaolyaPteg>-p                   
+,))(pmatSemiTteg>-p()gnol(   		
+;) )(emiTxTteg>-_erusaeMxt>-p)gnol(                   
+
+}
+
+H_NOITACILPPA_FTO fednfi#
+H_NOITACILPPA_FTO enifed#
+"h.ppatibro" edulcni#
+
+ppAtibrO cilbup : ppAFTO ssalc
+{
+:cilbup 
+
+;)(ppAFTO    
+;)goltpo *rahc ,][vgra*rahc tsnoc ,cgra* tni(tini diov    
+;)p* tekcaP(tropeRredneSlmo diov    
+;)p* tekcaP(tropeRrevieceRlmo diov    
+   ;}{)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov enilni    
+;}
+
+fidne#
+***************************************************************************/ 
+redrawroF ciffarT tibrO :FTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>maertsoi< edulcni#
+"h.maerts" edulcni#
+"h.eueuqatad" edulcni#
+"h.knis_eueuq" edulcni#
+"h.rotareneg_eueuq" edulcni#
+;dts ecapseman gnisu
+"h.etagrehte" edulcni#
+"h.troprehte" edulcni#
+"h.etag_cambil_rehte" edulcni#
+"h.noitacilppa_fto" edulcni#
+"h.fto_balniw_tibro_lmo" edulcni#//
+"h.gto_balniw_tibro_lmo" edulcni#//
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+
+
+{ = ][emitnur_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {    
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {    
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP   
+,} "etaG" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,} "troP" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,}"]cambil_war[]war[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {   
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {   
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {   
+,} 0 ,LLUN ,0 ,0 ,LLUN {   
+;}
+
+**/
+seciohc rehto on ,cambil_war ro war esu ot retehw( locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+/* 
+)emangol ** rahc ,eman_locotorp **rahc ,][vgra * rahc tsnoc ,cgra tni(1esahPsnoitpOesrap diov
+ {
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;emangol = gra.]2[1esahp_snoitpo  
+  
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+ }  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rehto dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+)etag *etaG  ,trop *troP ,][vgra * rahc tsnoc ,cgra tni(snoitpOesrap diov
+{
+
+;)(snoitpOteg>-etag)*diov( = gra.]1[snoitpo  
+ ;)(snoitpOteg>-trop)*diov( = gra.]2[snoitpo  
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+
+/* ... snoitpo eht lla daeR */	 ;)0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;ldne << "!derongI snoitpO dezingocernU" << tuoc    
+}  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc  
+{ )LLUN =! revotfel( fi  
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1(tixe    
+}  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+)troprht t_daerhtp ,etagrht t_daerhtp ,euq *eueuQataD ,trop *troP ,etag *etaG ,gsm * rahc(snoitpOemitnuResrap diov
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[rts rahc  
+
+;nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + rts(ypcrts    
+;'-' = ]1[rts = ]0[rts    
+;rts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+	;)TSRIF_PEEK_TXETNOC_TPOP ,emitnur_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+;cr tni  
+ { )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1 == cr( fi    
+tixE dna potS //      
+;)etagrht(lecnac_daerhtp      
+;)(etaGesolc>-etag      
+;)troprht(lecnac_daerhtp      
+;)(troPesolc>-trop      
+;euq eteled      
+;)1(tixe      
+}    
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+	;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+*/
+) rtp* diov (daerht_emitnur_eldnah_etaerc* diov
+{
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)gsm(snoitpOemitnuResrap        
+     }  
+}
+/*
+
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (daerht_eviecer_etaerc* diov
+{
+;rtp )* etaG( = arap* etaG     
+  ;)(evieceRtrats>-arap     
+;LLUN nruter     
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (noitcnuf_maerts_etaerc* diov
+{
+;rtp )* maertS( = arap* maertS     
+  ;)(maertStrats>-arap     
+;LLUN nruter     
+}
+
+
+**/
+.FTO eht fo noticnuf niaM ehT  * 
+:seod tI  * 
+.troP eno dna )ton ro cambiL htiw( etaG eno etaerc -  * 
+.troP dna etaG detcennoc ot eueuq egassem a etaerc -  * 
+dnes ot trop eht ot tekcap deviecer yreve drawrof ot sdaerht tnednepedni owt trats -  * 
+
+dnammoc "tixe" tpecxe ,noitacilppa siht rof snotpo emit-nur on si erehT  * 
+:erugifnoc ot dedeen era snoitpo enil dnammoc laitini  * 
+eviecer ot wh hcihw -  * 
+dnes ot wh hcihw -  * 
+PI hcihw ot detanitsed stekcap rof ot dnes ot rddawh hcihw -  * 
+* 
+.enil-dnammoc eht morf gnimoc era snoitpo esoht llA  * 
+trop gnidnes fo rotareneg eht ot etag gnieviecer fo knis eht rotcennoc ot desu si "euq" tcejbo eueuQataD A  * 
+/* 
+
+)][vgra * rahc tsnoc ,cgra tni(niam tni
+{
+;)(ppAFTO wen = 1fto *ppAtibrO  
+
+{ yrt  
+  ;)vgra ,cgra&(lmo_ezilaitini//    
+;)LLUN ,vgra,cgra&(tini>-1fto//    
+
+;1daerht t_daerhtp  
+;2daerht t_daerhtp  
+;LLUN = eman_locotorp* rahc  
+;LLUN = eman_golgubed* rahc  
+ ;LLUN = etag *etaG  
+
+;)(eueuQataD wen  = euq * eueuQataD  
+;)euq(rotareneG_eueuQ wen = neg *rotareneG  
+;)euq(kniSeueuQ wen = nis *kniSeueuQ  
+
+;)eman_golgubed& , eman_locotorp& ,vgra ,cgra(1esahPsnoitpOesrap  
+  
+;)eman_golgubed ,vgra,cgra&(tini>-1fto  
+{) 0 == )"war" ,eman_locotorp(pmcrts( fi  
+ ;)(etaGtenrehtE wen = etag    
+{)0 == ) "cambil_war" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLtenrehtE wen = etag    
+}  
+;)nis(etaGtenrehtE wen = etag *etaGtenrehtE//  
+;)(troPtenrehtE wen = trop *troPtenrehtE  
+;)etag ,trop ,vgra ,cgra(snoitpOesrap  
+msinahcem troper LMO>-ETAG eht etavitca ton tub ,etag eht ot knis a dnib // ;)nis,LLUN(etaGgifnoc>-etag  
+;)(tini>-trop  
+;)(tini>-etag  
+msinahcem troper LMO>-maertS etavitca ton od tub ,maerts etaerc// ;)LLUN ,trop,neg,0(maertS wen = rts* maertS  
+
+) 0 =! )etag)*diov( ,daerht_eviecer_etaerc,LLUN ,1daerht& (etaerc_daerhtp ( fi  
+;"...deliaF daerhT evieceR etaerC" worht      
+
+) 0 =! )rts)* diov( ,noitcnuf_maerts_etaerc ,LLUN ,2daerht& (etaerc_daerhtp ( fi  
+;"...deliaF daerhT dneS etaerC " worht      
+
+
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)2daerht ,1daerht ,euq ,trop ,etag ,gsm(snoitpOemitnuResrap        
+}  
+
+
+{ ) nosaer* rahc tsnoc ( hctac}  
+;ldne << nosaer << ":noitpecxE" << rrec    
+;)1-(tixe    
+}  
+
+;0 nruter  
+}
+
+"h.noitacilppa_gto" edulcni#
+ "h.gto_balniw_tibro_lmo" edulcni#
+
+>maertsf< edulcni#
+>maertsoi< edulcni#
+;dts ecapseman gnisu
+
+
+)(ppAtibrO://)(ppAGTO::ppAGTO
+ {
+ ;eurt = _LMOesu  
+}
+
+**/
+Lmo ezlaitinI* 
+/* 
+
+)tpogol* rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppAGTO diov
+{
+)LLUN == tpogol ( fi  
+{    
+LMO ot og stemerusaem ,gol gniggubed on// ;eurt = _LMOesu      
+;)LLUN ,vgra ,cgra(lmo_ezilaitini      
+}    
+esle  
+{    
+;eslaf = _LMOesu      
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf      
+))(nepo_si._pf( fi      
+{      
+    ; ldne << "nepo yllufsseccus eliF" << tuoc//	
+  ;ldne << "onqes dimaerts ezistekcap emitreviledtekcaP emitreviledtekcaPdetcepxE" << _pf        
+}      
+esle      
+	   {      
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht	
+;)1(tixe        
+}      
+}    
+}
+
+
+**/
+)LMO ot GTO( tnemerusaeM tropeR LMO>---GTO * 
+/* 
+
+)p* tekcaP(tropeRredneSlmo::ppAGTO diov
+{
+
+)_LMOesu( fi  
+{    
+      
+(troprednes_lmo    
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p                     
+,)(eziSdaolyaPteg>-p                     
+,)3e1*)(pmatSemiTteg>-p()taolf(     		
+;) )(emiTxTteg>-_erusaeMxt>-p)gnol(     		
+    
+}    
+esle  
+{    
+sm ni pmatsemit xt//; " " << ))(emiTxTteg>-_erusaeMxt>-p()gnol( <<" " << 3e1*)(pmatSemiTteg>-p << _pf      
+;" " << )(dImaertSteg>-_erusaeMxt>-p <<" "<<)(eziSdaolyaPteg>-p << _pf      
+;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << _pf      
+    
+}    
+    
+}
+
+*/
+) 1 == 005 % )(muNecneuqeSmaertSteg>-_erusaeMxt>-p ( fi 
+{   
+;)(pmatSemiTteg>-p << " emit reviled tekcaP detcepxE" << tuoc 
+su ni pmatsemit xt//;)(emiTxTteg>-_erusaeMxt>-p <<" emit ta tekcap a dnes " << tuoc  
+;)(eziSdaolyaPteg>-p << " ezis fo tekcaP a gnidneS " << tuoc  
+;)(dImaertSteg>-_erusaeMxt>-p << " di maertS " << tuoc  
+;ldne << )(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " DI ecneuqeS " << tuoc  
+}  
+   /*
+
+**/
+.trop redens eht ot maerts wen a gniddA * 
+tsil maerts eht fo liat ot maerts dda syawlA * 
+maerts dedda ylwen siht ot _rrucls tes ,LLUN si retniop "_rrucls" eht fi dnA * 
+maerts eht s marap@ * 
+* 
+/* 
+*/
+)s *maertS(maertSdda::ppAGTO diov
+{
+{ )_liatls!( fi  
+;s =_liatls =_daehls    
+{ esle }  
+;_liatls = _verp>-s    
+;s =_txen>-_liatls    
+;s =_liatls    
+}  
+;LLUN =_txen>-_liatls  
+;_liatls = _rrucls ) LLUN == _rrucls( fi  
+
+}
+/*
+
+.di maerts sti yb maerts a dnif ot noitcnuF **/
+.maerts eht fo di eht: di marap@ * 
+dnuof ton fi LLUN ,maerts eht ot retniop eht nruter@ * 
+/* 
+*/
+)di trohs(DIybmaertShcraes::ppAGTO *maertS
+{
+
+;_daehls = s* maertS  
+)LLUN=! s ( elihw  
+{        
+;s nruter ) di == )(DIteg>-s(  fi          
+;_txen>-s = s          
+}        
+
+;LLUN nruter  
+}
+/*
+**/
+tsil maerts morf maerts eht eteled ot noitcnuf A  * 
+:snoitautis eerht redisnoc ot sdeen gnidoC  * 
+daeh tsil -  * 
+liat tsil -  * 
+rehto -  * 
+/* 
+*/
+)mrts *maertS(maertSeteled::ppAGTO loob
+{
+;eslaf nruter )mrts!( fi   
+)LLUN=! _verp>-mrts ( fi   
+;_txen>-mrts = _txen>-_verp>-mrts     
+)LLUN=! _txen>-mrts ( fi   
+;_verp>-mrts = _verp>-_txen>-mrts         
+
+;eurt nruter   
+
+}
+
+)di trohs(maertSeteled::ppAGTO loob
+{
+;)di(DIybmaertShcraes =s* maertS   
+;)s(maertSeteled nruter   
+}
+/*
+
+tsil eht ni smaerts gniogtuo fo rebmun eht teg **/
+liat ot daeh morf tnuoc   * 
+* 
+/* 
+*/
+)(muNmaertSteg::ppAGTO trohs
+{
+;0 = tnc trohs 
+;_daehls = s* maertS 
+)LLUN=! s ( elihw 
+{ 
+;++tnc   
+;_txen>-s = s   
+} 
+;tnc nruter 
+}
+/*
+H_NOITACILPPA_GTO fednfi#
+H_NOITACILPPA_GTO enifed#
+"h.tekcap" edulcni#
+"h.maerts" edulcni#
+"h.ppatibro" edulcni#
+ ;maertS ssalc
+
+ppAtibrO cilbup : ppAGTO ssalc
+{
+:cilbup 
+;)(ppAGTO    
+;)tpogol *rahc ,][vgra *rahc tsnoc ,cgra* tni(tini diov    
+;)p* tekcaP(tropeRredneSlmo diov    
+;}{)p* tekcaP( tropeRrevieceRlmo diov enilni    
+;}{)rddA *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov enilni    
+;)s* maertS(maertSdda diov//    
+:detcetorp 
+   
+  
+;}
+
+
+fidne#
+***************************************************************************/ 
+rotareneG ciffarT tibrO :GTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>h.emit/sys< edulcni#
+>maertsoi< edulcni#
+;dts ecapseman gnisu
+"h.maerts" edulcni#
+"h.sserdda" edulcni#
+"h.rotareneg_rbc" edulcni#
+"h.rotareneg_opxe" edulcni#
+"h.tropkcos" edulcni#
+"h.trop_kcospdu" edulcni#
+"h.trop_kcospct" edulcni#
+"h.troprehte" edulcni#
+"h.ppatibro" edulcni#
+"h.noitacilppa_gto" edulcni#
+ "h.gto_balniw_tibro_lmo" edulcni#//
+
+>h.daerhtp< edulcni#
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP  
+,}"]tekcap_war|pdu|pct[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"locotorp" {  
+,}"]oopxe|rbc[" ,"rotareneg fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"rotareneg" {  
+,}"]emanelif[" ,"goL tnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP  ,'0\' ,"golgubed" {  
+,}"sruoh" ,"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {  
+;}
+
+
+**/
+eman_rotareneg eht no desab rotareneG a etaerc ot noitcnuF * 
+eman rotareneg :eman_rotareneg marap@ * 
+detaerc rotareneg eht nruter@ * 
+/* 
+
+*rotareneG
+(rotareneGetaerc
+eman_rotareneg *rahc  
+{ )
+   ;LLUN = neg *rotareneG  
+
+{) 0 == )"rbc" ,eman_rotareneg(pmcrts( fi  
+;)(rotareneG_RBC wen = neg    
+{)0 == )"oopxe" ,eman_rotareneg(pmcrts(fi esle}  
+;)(rotareneG_opxE wen = neg    
+{ esle}  
+;ldne << ".'" << eman_rotareneg << "' rotareneG nwonknU :rorrE" << rrec    
+;)1-(tixe    
+ }  
+;neg nruter  
+}
+
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP  
+,} "troP" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {  
+,} "rotareneG" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {  
+,}"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"locotorp" {  
+,}"rotareneg fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"rotareneg" {  
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {  
+,}"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {  
+,} "tixe dna rotareneg eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {  
+,} "tixe dna rotareneg eht esuap" ,2 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"esuap" {  
+,} "rotareneg eht emuser" ,3 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"emuser" {  
+} 0 ,LLUN ,0 ,0 ,LLUN {  
+;}
+
+
+**/
+epyT rotareneG dna locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+:epyt rotareneg :tg marap@  * 
+/* 
+(1esahPsnoitpOesrap diov
+ ,cgra tni
+ ,][vgra * rahc tsnoc
+ ,eman_locotorp **rahc
+ ,eman_rotareneg **rahc
+,eman_gol **rahc
+ ferkcolc *tni
+ {)
+ 
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;eman_rotareneg = gra.]2[1esahp_snoitpo  
+;eman_gol = gra.]3[1esahp_snoitpo  
+ ;ferkcolc = gra.]4[1esahp_snoitpo  
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+*/  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+}  
+{) LLUN == eman_rotareneg*( fi  
+;ldne << "!noitpo rotareneG gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+}  
+/*  
+;LLUN = gra.]1[1esahp_snoitpo//  
+;LLUN = gra.]2[1esahp_snoitpo//  
+;LLUN = gra.]3[1esahp_snoitpo//  
+;LLUN = gra.]4[1esahp_snoitpo//  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+.desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rotareneg dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+diov
+(2esahPsnoitpOesrap
+ ,cgra tni  
+  ,][vgra * rahc tsnoc  
+ ,trop *troP  
+neg *rotareneG  
+{ )
+
+;)(snoitpOteg>-trop)*diov( = gra.]1[snoitpo  
+;)(snoitpOteg>-neg)*diov( = gra.]2[snoitpo  
+;"DEXIF" = pircseDgra.]3[snoitpo  
+;"DEXIF" = pircseDgra.]4[snoitpo  
+;"DEXIF" = pircseDgra.]5[snoitpo  
+;"DEXIF" = pircseDgra.]6[snoitpo  
+
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+;)0 => ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;rre otog    
+}  
+{  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc    
+{ )LLUN =! revotfel( fi    
+;ldne << ".dnuof '" << ]0[revotfel << "' tnemugra lanoitiddA :RORRE" << rrec      
+;rre otog      
+}    
+}  
+;)noCtpo(txetnoCeerFtpop  
+;nruter  
+
+:rre 
+;)0 ,rredts ,noCtpo(egasUtnirPtpop  
+;)1-(tixe  
+}
+
+**/
+snoitpO emitnuR esraP * 
+/* 
+
+)rts *maertS ,gsm * rahc(snoitpOemitnuResrap tni
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[nirts rahc  
+
+;1- nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + nirts(ypcrts    
+;'-' = ]1[nirts = ]0[nirts    
+;nirts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+;)TSRIF_PEEK_TXETNOC_TPOP ,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	
+;cr tni  
+{ )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+
+potS //{ )1 == cr( fi        
+;)(maertStixe>-rts  	
+sdaerht sti lla dna ssecorp etanimret tixe//  ;)0(tixe          
+}        
+)2 == cr( fi esle        
+ {	
+         ;)(maertSesuap>-rts          
+}	
+)3==cr( fi esle	
+{	
+;)(maertSemuser>-rts          
+     }	
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+;)noCtpo(txetnoCeerFtpop  
+	;cr nruter  
+}
+
+**/
+eman_locotorp eht no desab troP a etaerc ot noitcnuF * 
+eman locotorp :eman_locotorp marap@ * 
+detaerc trop eht nruter@ * 
+/* 
+
+*troP
+(troPetaerc
+eman_locotorp *rahc  
+{ )
+   ;LLUN = trop *troP  
+
+{) 0 == )"pdu" ,eman_locotorp(pmcrts( fi  
+ ;)(troPkcoSPDU wen = trop    
+{)0 == ) "pct" ,eman_locotorp(pmcrts(fi esle }  
+;)(troPkcoSPCT wen = trop    
+{)0 == ) "war" ,eman_locotorp(pmcrts(fi esle }  
+;)(troPtenrehtE wen = trop    
+{ esle }  
+;ldne << ".'" << eman_locotorp << "' locotorp nwonknU :rorrE" << rrec    
+;)1-(tixe    
+ }  
+;trop nruter  
+}
+
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (noitcnuf_maerts_etaerc* diov
+{
+;rtp )* maertS( = arap* maertS     
+daerht niam yb dellik sselnu emuser ro desuap tonnac ti ,maerts eht trats //  ;)(maertStrats>-arap     
+;LLUN nruter     
+}
+
+
+**/
+)sdnammoc tupni resU( nidts gnildnah ot daerht niam ni noitncuF * 
+snoitpo emit-nur sa meht gnisraP * 
+/* 
+
+)rts* maertS(krow diov
+{
+;cr tni  
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+ 
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+    ;)rts ,gsm(snoitpOemitnuResrap = cr        
+}  
+}
+
+
+**/
+GTO eht fo noticnuf niaM  * 
+* 
+:era noitcnuf siht fo esoprup rojam ehT * 
+ .emit-nur ta dna margorp eht gnitrats erofeb ,stupni enil-dnammoc eldnah - * 
+.snoitarepo gnidaer nidts dna ,dnes ,tiaw egnarra - * 
+* 
+.sesahp owt ni snoitpo lla esrap ,tsriF :sa dengised si tI * 
+)rednes si siht fi( rotareneG dna troP fo ssenidaer eht kcehc ,snoitpo level dnoces eht gnisrap retfA * 
+.trats ot ydaer dna ,oiranecs eht pu-tes dna trop eht ezilaitini neht * 
+
+  .GTO eno ni smaerts elpitlum evah ot gniog era ew .ereH * 
+.sdnammoc gnildnah si daerht niam eht .daerht elpitlum gnisu * 
+ stekcap gnidnes yltnednepedni si maerts eht ,notcnuf tini_maerts ht gnillac yb ,daerht etarepes a si maerts hcae * 
+ * 
+/* 
+)][vgra * rahc tsnoc ,cgra tni(niam tni
+{
+
+   ;)(ppAGTO wen = 1gto* ppAtibrO  
+
+{ yrt  
+    
+;1daerht t_daerhtp    
+;"pdu" = eman_locotorp* rahc    
+;"rbc" = eman_rotareneg* rahc    
+;LLUN = eman_golgubed* rahc    
+;1- = ferkcolc tni    
+;)ferkcolc& ,eman_golgubed& ,eman_rotareneg& ,eman_locotorp& ,vgra ,cgra(1esahPsnoitpOesrap    
+;)eman_locotorp(troPetaerc = trop *troP    
+;)eman_rotareneg(rotareneGetaerc = neg* rotareneG    
+  LMO ezilaitinI//  ;)eman_golgubed ,vgra ,cgra&(tini>-1gto    
+                ;)neg ,trop ,vgra ,cgra(2esahPsnoitpOesrap    
+;)(tini>-trop    
+;)(tini>-neg    
+    0.oN maerts tluafed//  ;)ferkcolc ,1gto ,trop ,neg ,0(maertS wen = rts* maertS    
+   ;)rts)* diov( ,noitcnuf_maerts_etaerc ,LLUN ,1daerht& (etaerc_daerhtp = 1tsc tni    
+               ;"...deliaF daerhT maertS a etaerC" worht)0=!1tsc( fi    
+daerht niam eht si siht// ;)rts(krow    
+
+{ ) nosaer* rahc tsnoc( hctac }  
+;ldne << nosaer << ":noitpecxE" << rrec    
+;)1-(tixe    
+  }  
+;0 nruter  
+}
+
+,sdaerht elpitlum htiw GTO eht ni smaerts eno naht erom trats ot eussi on si ereht taht detset evah I :etoN//
+.deen on fo si ti esuaceb won erutaef siht esu ot ton referp I tub//
+//
+{ = ][1esahp_emitnur_snoitpo noitpOtpop tcurts//
+PLEHOTUA_TPOP  //
+,}"REGETNI" ,"maerts fo DI" ,0 ,LLUN ,TNI_GRA_TPOP ,'0\' ,"maerts" {  //
+} 0 ,LLUN ,0 ,0 ,LLUN {  //
+;}//
+
+**/
+tcurts nA* 
+daerht maerts wen a etaerc rof retemaraP* 
+/* 
+
+marap_daerht_maerts tcurts//
+{//
+/* rotareneg eht ot retniop<!*/ ;_pg* rotareneG  //
+   /* trop ot retniop<!*/ ;_pp*      troP  //
+/*reifitnedi maerts!*/;_dimaerts trohs  //
+;}//
+
+.mune nA **/
+epyt rotareneg fo noitacidnI * 
+/* 
+ epyt_rotareneg mune//
+ {//
+  /* .ciffart RBC eulav munE <!*/         ,rbc  //
+    /* .ciffarT laitnenopxE eulav munE <!*/  laitnenopxe  //
+;}//
+
+
+*/  
+;1ps marap_daerht_maerts tcurts    
+   
+;neg = _pg.1ps    
+ ;trop = _pp.1ps    
+;2neg = _pg.2ps    
+/*    
+;2trop = _pp.2ps//    
+;1 =_dimaerts.1ps//    
+    ;2 =_dimaerts.2ps//    
+   smaerts owt etaerc ,sdaerht owt //    
+
+
+;rbc = epytg epyt_rotareneg//    
+;)(rotareneG_RBC wen = neg *rotareneG//    
+  snoitpo enildnammocyna esrap deen ton seod ,snoitpo tluafed 2neg//  ;)(rotareneG_RBC wen = 2neg *rotareneG//    
+;)"1lanretni"(emantsoHtsDtes>-2trop//     
+ ;)(tini>-2trop//    
+
+ snoitpo enildnammoc yna esrap deen ton seod ,snoitpo tluafed 2trop // ;)eman_locotorp(troPetaerc = 2trop *troP//    
+
+;)2ps&)* diov( ,noitcnuf_maerts_etaerc ,LLUN ,2daerht& (etaerc_daerhtp = 2tsc tni// 
+"h.noitacilppa_rto" edulcni#
+ "h.rto_balniw_tibro_lmo" edulcni#
+>gnirts< edulcni#
+
+>maertsoi< edulcni#
+>maertsf< edulcni#
+;dts ecapseman gnisu
+
+)(ppAtibrO://)(ppARTO::ppARTO
+{
+}
+
+**/
+Lmo ezlaitinI* 
+/* 
+
+)tpogol* rahc ,][vgra * rahc tsnoc ,cgra* tni(tini::ppARTO diov
+{
+)LLUN == tpogol ( fi 
+{    
+;eurt = _LMOesu      
+;)LLUN ,vgra ,cgra(lmo_ezilaitini      
+}    
+esle 
+{   
+;eslaf = _LMOesu      
+;)ppa::maertsf|tuo::maertsf,tpogol(nepo._pf      
+))(nepo_si._pf( fi      
+{      
+ ;ldne << "etar issr emitxr ezistkp onqeswolf diwolf camrednes troprednes pirednes onqesmaerts dimaerts" << _pf        
+}      
+esle      
+	   {      
+;"elif gol tnemerusaem gninepo rorrE :noitpecxE" worht	
+;)1(tixe        
+}      
+}   
+}
+
+
+**/
+)LMO ot RTO( tnemerusaeM ttropeR LMO>---RTO * 
+/* 
+
+)p* tekcaP(tropeRrevieceRlmo::ppARTO diov
+{
+
+)_LMOesu( fi    
+(tropreviecer_lmo      
+,)(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(                    
+,)(emaNredneSteg>-_erusaeMxt>-p     //    		
+,)(troPredneSteg>-_erusaeMxt>-p )tni(//    		
+,)(CAMredneSteg>-_erusaeMxt>-p    //                    
+,)(dIwolFteg>-_erusaeMxr>-p)tni(                    
+,)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(//                    
+, )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(    		
+,)(emiTxRteg>-_erusaeMxr>-p)gnol(    		
+,)(ISSRteg>-_erusaeMxr>-p)tni(    		
+                ;) )(etaRtimXYHPteg>-_erusaeMxt>-p)tni(                    
+esle    
+                     {      
+;" "<< )(muNecneuqeSmaertSteg>-_erusaeMxt>-p)gnol(<< " "<< )(dImaertSteg>-_erusaeMxt>-p)tni(<< _pf	
+;" "<< )(troPredneSteg>-_erusaeMxt>-p )tni(<<" "<<)(emaNredneSteg>-_erusaeMxt>-p << _pf        
+;" "<<)(CAMredneSteg>-_erusaeMxt>-p << _pf        
+;" "<<)(muNecneuqeSwolFteg>-_erusaeMxr>-p)gnol(<< " " << )(dIwolFteg>-_erusaeMxr>-p)tni( << _pf        
+;" " <<)(emiTxRteg>-_erusaeMxr>-p)gnol( << " " << )(htgneLdevieceRteg>-_erusaeMxr>-p)tni(  << _pf        
+   ;ldne<< )(etaRtimXYHPteg>-_erusaeMxt>-p)tni( << " " << )(ISSRteg>-_erusaeMxr>-p)tni(  << _pf        
+     }      
+}
+
+
+)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo::ppARTO diov
+{
+)_LMOesu( fi  
+ ,diwolf(wolf_lmo  
+,))(emantsoHteg>-rddAcrs  //      	
+        ;))(troPteg>-rddAcrs)tni(             
+}
+
+
+  */
+;)(dImaertSteg>-_erusaeMxt>-p <<  "  maerts :devieceR"  << tuoc  
+;)(muNecneuqeSmaertSteg>-_erusaeMxt>-p << " qes " << tuoc  
+;)(emaNredneSteg>-_erusaeMxt>-p  << " rednes " << tuoc  
+;)(troPredneSteg>-_erusaeMxt>-p  << ":" << tuoc  
+;)(CAMredneSteg>-_erusaeMxt>-p << " CAM rednes " << tuoc  
+;)(dIwolFteg>-_erusaeMxr>-p <<  " wolF " << tuoc   
+;)(muNecneuqeSwolFteg>-_erusaeMxr>-p  <<  " qes " << tuoc   
+;)(htgneLdevieceRteg>-_erusaeMxr>-p << " htgnel " << tuoc  
+;)(emiTxRteg>-_erusaeMxr>-p << " emit "  << tuoc  
+;ldne << )(ISSRteg>-_erusaeMxr>-p  << " issr "  << tuoc  
+;ldne << )(etaRtimXYHPteg>-_erusaeMxt>-p  << " etartimX "  << tuoc 
+  
+/*
+
+
+H_NOITACILPPA_RTO fednfi#
+H_NOITACILPPA_RTO enifed#
+"h.ppatibro" edulcni#
+"h.knis" edulcni#
+"h.sserdda" edulcni#
+
+ppAtibrO cilbup : ppARTO ssalc
+{
+:cilbup 
+
+ ;)(ppARTO    
+;)tpogol *rahc ,][vgra*rahc tsnoc ,cgra* tni(tini diov    
+;}{)p* tekcaP(tropeRredneSlmo diov enilni    
+ ;)p* tekcaP(tropeRrevieceRlmo diov    
+ ;)rddAcrs *sserddA ,diwolf tni(tropeRxelpitlumeDlmo diov    
+    
+:detcetorp 
+   
+;}
+
+fidne#
+
+***************************************************************************/ 
+revieceR ciffarT tibrO :RTO * 
+  5002,4002 )c( thgirypoC * 
+5002,4002 )c( thgirypoC * 
+ytisrevinU sregtuR ,BALNIW                                * 
+.devreser sthgir llA * 
+* 
+sti dna erawtfos siht etubirtsid dna yfidom ,ypoc ,esu ot noissimreP * 
+gniwollof eht htiw ylno dedivorp ,detnarg ybereh si noitatnemucod * 
+:deifsitas era snoitidnoc * 
+* 
+ni raeppa eciton noissimrep siht dna eciton thgirypoc eht htoB .1 * 
+,snoisrev deifidom ro skrow evitavired ,erawtfos eht fo seipoc lla    * 
+ni raeppa seciton htob taht dna ,foereht snoitrop yna dna    * 
+.noitatnemucod gnitroppus    * 
+siht fo esu ro serutaef gninoitnem slairetam gnisitrevda llA .2 * 
+:tnemegdelwonkca gniwollof eht yalpsid tsum erawtfos    * 
+fo etutitsnI araN yb depoleved erawtfos sedulcni tcudorp sihT      * 
+.srotubirtnoc sti dna ygolonhceT dna ecneicS      * 
+ron yrotaroBAL noitamrofNI sseleriW fo eman eht rehtieN .3 * 
+etomorp ro esrodne ot desu eb yam srotubirtnoc sti fo seman eht    * 
+nettirw roirp cificeps tuohtiw erawtfos siht morf devired stcudorp    * 
+.noissimrep    * 
+* 
+BALNIW DNA ''SI SA`` REPOLEVED EHT YB DEDIVORP SI ERAWTFOS SIHT * 
+FO YTILIBAIL YNA SMIALCSID * 
+FO ESU EHT MORF GNITLUSER REVEOSTAHW SEGAMAD YNA ROF DNIK YNA * 
+,ESIWREHTO RO DEILPMI YTNARRAW ON SI EREHT ,OSLA .ERAWTFOS SIHT * 
+.DEDIVORP TROPPUS SI RON * 
+* 
+ro stnemevorpmi yna morf detareneg stluser eht fo kcabdeeF * 
+.detaicerppa hcum eb dluow erawtfos siht ot edam snoisnetxe * 
+:ot tnes eb dluohs kcabdeef hcus ynA * 
+* 
+uW nibihZ  * 
+>ude.sregtur.balniw@uwnibihz<  :liam-E  * 
+>uwnibihz~/ude.sregtur.balniw.www//:ptth<     :LRU  * 
+ ,.dR tterB 37 :sserddA  * 
+BALNIW           * 
+ASU ,45880 JN ,yawatacsiP           * 
+* 
+.segnahc eseht etubirtsider ot sthgir eht sah BALNIW * 
+/*************************************************************************** 
+
+>h.tpop< edulcni#
+>maertsoi< edulcni#
+;dts ecapseman gnisu
+"h.knis" edulcni#
+"h.knisymmud" edulcni#
+"h.etagkcos" edulcni#
+"h.etag_kcospdu" edulcni#
+"h.etag_kcospct" edulcni#
+"h.etag_cambil_pct" edulcni#
+"h.etag_cambil_pdu" edulcni#
+"h.etag_cambil_rehte" edulcni#
+"h.etagrehte" edulcni#
+"h.rto_balniw_tibro_lmo" edulcni#//
+"h.noitacilppa_rto" edulcni#
+
+0 NIDTS enifed#
+652 EZIS_TUPNI_XAM enifed#
+
+{ = ][1esahp_snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP    
+,}"]cambil_war[]cambil_pct[]cambil_pdu[]war[]pdu[]pct[" ,"locotorp fo emaN" ,0 ,LLUN ,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {    
+,}"]emanelif[" ,"goL tnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP  ,'0\' ,"golgubed" {    
+,}"sruoh" ,"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {    
+} 0 ,LLUN ,0 ,0 ,LLUN {    
+;}  
+
+
+{ = ][snoitpo noitpOtpop tcurts
+PLEHOTUA_TPOP   
+,} ")tekcoS( etaG gnivieceR" ,0 ,LLUN ,ELBAT_EDULCNI_GRA_TPOP ,'0\' ,LLUN {   
+,}"]cambil_war[]war[]cambil_pdu[]cambil_pct[]pdu[]pct[" ,"locotorp fo emaN" ,0 ,LLUN,GNIRTS_GRA_TPOP,'0\' ,"locotorp" {   
+,}"goL stnemerusaeM fo emaneliF" ,0 ,LLUN ,GNIRTS_GRA_TPOP ,'0\' ,"golgubed" {   
+,}"0791/10/10 ecnis sruoh" ,0 ,LLUN ,TNI_GRA_TPOP  ,'0\' ,"ferkcolc" {   
+,} "tixe dna margorP eht potS" ,1 ,LLUN ,ENON_GRA_TPOP ,'0\' ,"tixe" {   
+,} 0 ,LLUN ,0 ,0 ,LLUN {   
+;}
+
+
+**/
+epyT kniS dna locotorP :1 esahp rof snoitpo esraP  * 
+:cgra marap@  * 
+:vgra marap@  * 
+epyt locotorp :eman_locotorp marap@  * 
+:epyt knis :ts marap@  * 
+/* 
+)ferkcolc *tni ,eman_gol **rahc ,eman_locotorp **rahc ,][vgra * rahc tsnoc ,cgra tni(1esahPsnoitpOesrap diov
+ {
+;eman_locotorp = gra.]1[1esahp_snoitpo  
+;eman_gol = gra.]2[1esahp_snoitpo  
+;ferkcolc = gra.]3[1esahp_snoitpo  
+
+;cr tni  
+;)0 ,1esahp_snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	 ;)1- =! ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+*/  
+{) LLUN == eman_locotorp*( fi  
+;ldne << "!noitpo locotorp gnissiM :rorrE" << rrec    
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1-(tixe    
+ }  
+ /*  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+**/
+.esahP dnoces ni snoitpo esraP  * 
+.desrap neeb ydaerla sah hcihw "epyt" tpecxe sretemarap rehto dna trop lla kcehC  * 
+.I esahP ni  * 
+/* 
+)etag *etaG  ,][vgra * rahc tsnoc ,cgra tni(2esahPsnoitpOesrap diov
+{
+
+;)(snoitpOteg>-etag)*diov( = gra.]1[snoitpo  
+;cr tni  
+;) 0,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+
+/* ... snoitpo eht lla daeR */	 ;)0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;ldne << "!derongI snoitpO dezingocernU" << tuoc    
+}  
+;)noCtpo(sgrAteGtpop = revotfel **rahc tsnoc  
+{ )LLUN =! revotfel( fi  
+;)0 ,rredts ,noCtpo(egasUtnirPtpop    
+;)1(tixe    
+}  
+;)noCtpo(txetnoCeerFtpop  
+}
+
+
+)rto *ppAtibrO ,rht t_daerhtp ,etag *etaG ,gsm * rahc(snoitpOemitnuResrap diov
+{
+;cgra tni  
+;vgra **rahc tsnoc  
+;]EZIS_TUPNI_XAM[rts rahc  
+
+;nruter )'0\' == gsm*( fi  
+{ )'-' =! gsm*( fi  
+-- gnidael tuohtiw sdnammoc rof wolla //    
+;)gsm ,2 + rts(ypcrts    
+;'-' = ]1[rts = ]0[rts    
+;rts = gsm    
+}  
+;)vgra& ,cgra& ,gsm(gnirtSvgrAesraPtpop  
+;)TSRIF_PEEK_TXETNOC_TPOP ,snoitpo ,vgra ,cgra ,LLUN(txetnoCteGtpop = noCtpo txetnoCtpop  
+	
+;cr tni  
+ { )0 > ))noCtpo(tpOtxeNteGtpop = cr(( elihw  
+{ )1 == cr( fi    
+tixE dna potS //      
+;)rht(lecnac_daerhtp      
+;)(esolc>-rto      
+      ;)(etaGesolc>-etag      
+;)0(tixe      
+}    
+;}  
+{ )1- < cr( fi  
+)SAILAON_NOITPODAB_TPOP ,noCtpo(noitpOdaBtpop << " :RORRE" << rrec    
+;ldne << ")" << )cr(rorrertStpop << "( " << 	
+}  
+
+	;)noCtpo(txetnoCeerFtpop  
+}
+
+**/
+)sdnammoc tupni resU( nidts gnildnah ot daerht niam ni noitncuF * 
+snoitpo emit-nur sa meht gnisraP * 
+/* 
+
+)(krow diov//
+{//
+}//  
+
+
+**/
+eman_locotorp eht no desab etaG a etaerc ot noitcnuF * 
+eman locotorp :eman_locotorp marap@ * 
+detaerc etag eht nruter@ * 
+/* 
+
+)eman_locotorp *rahc(etaGetaerc *etaG
+{
+   ;LLUN = etag *etaG  
+
+{) 0 == )"pdu" ,eman_locotorp(pmcrts( fi  
+ ;)(etaGkcoSPDU wen = etag    
+{)0 == ) "pct" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGkcoSPCT wen = etag    
+{)0 == )"cambil_pct" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLPCT wen = etag    
+{)0 == )"cambil_pdu" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLPDU wen = etag    
+{)0 == )"war" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGtenrehtE wen = etag    
+{)0 == )"cambil_war" ,eman_locotorp(pmcrts (fi esle }  
+;)(etaGcambiLtenrehtE wen = etag    
+{ esle }  
+;ldne << ".'" << eman_locotorp << "' locotorp nwonknU :rorrE" << rrec    
+;)1-(tixe    
+ }  
+;etag nruter  
+}
+
+**/
+maerts eno rof daerht a taerc ot noitcnuF * 
+/* 
+) rtp* diov (daerht_eviecer_etaerc* diov
+{
+;rtp )* etaG( = arap* etaG     
+  ;)(evieceRtrats>-arap     
+;LLUN nruter     
+}
+
+**/
+.RTO eht fo noticnuf niaM  * 
+:seod tI  * 
+.snoitpo enil-dnammmoc no sesab )s(etaG etaerc -  * 
+gnivecer trats ot setag eht tseuqeR -  * 
+nevig si dnammoc "tixe" fi sdaerht lla etanimret dna tupni emitnur esrap -  * 
+/* 
+
+)][vgra * rahc tsnoc ,cgra tni(niam tni
+{
+;)(ppARTO wen = 1rto * ppAtibrO  
+
+       { yrt  
+;1daerht t_daerhtp  
+;"pdu" = eman_locotorp* rahc  
+;LLUN = eman_golgubed* rahc  
+;1- = ferkcolc tni  
+;)ferkcolc& ,eman_golgubed& ,eman_locotorp& ,vgra ,cgra(1esahPsnoitpOesrap  
+;)eman_locotorp(etaGetaerc = etag *etaG  
+ knis ymmud etaerc//  
+;)(kniSymmuD wen  = nis* kniS  
+;)eman_golgubed ,vgra ,cgra&(tini>-1rto  
+;)etag ,vgra ,cgra(2esahPsnoitpOesrap  
+;)ferkcolc ,nis,1rto(etaGgifnoc>-etag  
+;)(tini>-etag  
+) 0 =! )etag)*diov( ,daerht_eviecer_etaerc,LLUN ,1daerht& (etaerc_daerhtp ( fi  
+  ;"...deliaF daerhT etaerC" worht         
+;]EZIS_TUPNI_XAM[gsm rahc  
+{ )1( elihw  
+;) EZIS_TUPNI_XAM ,gsm(enilteg.nic        
+;)1rto ,1daerht ,etag ,gsm(snoitpOemitnuResrap        
+}  
+
+{ ) nosaer* rahc tsnoc ( hctac}  
+;ldne << nosaer << ":noitpecxE" << rrec    
+;)1-(tixe    
+}  
+
+;0 nruter  
+}
+
+
+
+
+
+
+>h.oidts< edulcni#
+>h.gnirts< edulcni#
+>h.ni/teniten< edulcni#
+"h.tekcap" edulcni#
+
+**/
+rotcurtsnoC * 
+/* 
+
+)(maraPdneS::maraPdneS
+{
+;0 =_munqes  
+;LLUN= _rddarednes//  
+;]05[rahc wen = _rddarednes  
+;]02[rahc wen =_camrednes  
+ ;0 = _rewopxt   
+ ;0 =_lennahc   
+   ;;0 =_dimaerts  
+ ;0 = _emitxt  
+;0 =_emitxtcam  
+;0 =_onqes_pct  
+;0 = _tropxt  
+;0=_etarxt  
+}
+
+ 
+)(maraPevieceR::maraPevieceR
+{
+;]05[rahc wen = _rddareviecer  
+;LLUN = _rddareviecer//  
+;0 =_issr  
+; 0 = _esion  
+.ti devicer ohw wolf eht<///   ;0 = _diwolf  
+.wolf eht yb dehcatta rebmun ecneuqes eht <///  ;0 = _onqes  
+;0 =_emitxrcam  
+;0 = _emitxr  
+;0 = _tropxr  
+     
+}
+
+
+**/
+.rotcurtsnoc tekcaP tluafeD * 
+.tekcap ytpme tsrif yrev eht ecudorp ot rotareneg rof ylno desu si tI * 
+.detareneg tekcap yreve rof naiga dna niaga desu eb lliw tekcap ytpme siht * 
+.siht ecalper ot etaerc lliw reffub wen a ,rellams si ti fI .daolyap tekcap rof deizlaitini si 215 htgnel htiw reffub A * 
+...dezilaitini si _daolyap fo retniop llun a snaem taht esuaceb ,suoregnad si orez ot htgnel tes * 
+eziSdaolyaPtes ees@* 
+/* 
+
+)(tekcaP::tekcaP
+{
+;)(maraPdneS wen  = _erusaeMxt  
+;)(maraPevieceR wen  = _erusaeMxr  
+;0 = _ezis  
+;EZIS_DAOLYAP_TLUAFED = _htgnel  
+;0  =  _emit  
+;]EZIS_DAOLYAP_TLUAFED[rahc wen = _daolyap  
+}
+
+**/
+:rotcurtsnoC tekcaP  etanretlA * 
+....reffub egral a yficepS * 
+ emos yb desu ,reffub gniviecer tekcap a enifed ot lufesu si sihT * 
+noitacilppa RTO fo stcejbo * 
+wolF ees@ * 
+/* 
+
+)htgnel_reffub tni(tekcaP::tekcaP
+{
+;)(maraPdneS wen  = _erusaeMxt  
+;)(maraPevieceR wen  = _erusaeMxr  
+;0 = _ezis  
+;htgnel_reffub = _htgnel  
+;0  =  _emit  
+;]htgnel_reffub[rahc wen = _daolyap  
+}
+ **/
+.ezis tekcap tes * 
+ ,reffub tlufed a sah ydaerla tekcap sA * 
+daolyap eht enimreted ot syaw owt era ereht * 
+eziSdaolyaPteS >-- si ti sa eb daolyap eht tel ,ylno ezis tes -  * 
+.ezis reffub daolyap eht tsujda ,yrassecen fi #-   * 
+ )...snoitacilppA oediV dna oiduA rof  .g.e( atad cicifeps htiw daolyap eht llif osla dna ezis tes -  * 
+daolyaPllif  ees@ * 
+/* 
+
+)ezis tni(eziSdaolyaPtes::tekcaP diov
+{
+;ezis  = _ezis  
+{ )_htgnel > ezis( fi  
+;_daolyap ][ eteled )LLUN =! _daolyap( fi    
+;)ezis * 5.1()tni( = _htgnel    
+;]_htgnel[rahc wen  = _daolyap    
+}  
+}
+
+ **/ 
+.daolyap llif ot noitcnuf A  *  
+...kcabyalp oediv/oidua ekil snoitacilppa rof daolyap fo tnetnoc eht yficeps nac resu  *  
+/*  
+)maertstupni* rahc ,ezis tni(daolyaPllif::tekcaP tni
+{
+;)ezis(eziSdaolyaPtes  
+{ )LLUN == )ezis  ,maertstupni)* rahc( ,_daolyap)* rahc((ypcmem( fi  
+;"deliaF daolyap lliF" worht    
+}  
+;0 nruter  
+}
+
+**/
+.daolyap fo setyb wef tsrif eht ni reifitneDI tekcap na tup ot noitcnuf A  * 
+onqes dna di maerts fo noitanibmoc na si ti  * 
+* 
+gnippmats eht nigeb ot noitisop eht :tesffo marap@  * 
+depmats eb ot eulav eht  :lav marap@  * 
+.eslaf esiwrehto,lufsseccus fi EURT nruter@  * 
+
+.regetni gnol  dengisnu na erots ot desu si stetco 8 tsrif ehT  * 
+.setyb 8 naht regnol ton si tekcap eht taht si eruliaf pmats a rof nosaer ehT  * 
+/* 
+
+)lav gnol dengisnu ,tesffo tni(laVgnoLpmats::tekcaP loob
+{
+;eslaf nruter ) tesffo +8 < _ezis ( fi   
+;tesffo =+ _daolyap   
+;)lav(lnoth = )_daolyap)* gnol dengisnu((*   
+;tesffo =- _daolyap   
+;eurt nruter  
+}
+
+)lav trohs dengisnu ,tesffo tni(laVtrohSpmats::tekcaP loob
+{
+;eslaf nruter ) tesffo + 2 < _ezis ( fi   
+;tesffo =+ _daolyap   
+;)lav(snoth = )_daolyap)* gnol dengisnu((*   
+;tesffo =- _daolyap   
+;eurt nruter  
+}
+
+tekcap deviecer fo daolyap eht morf noitamrofni tekcap emos revocer ot noitcnuf A **/
+,daolyap eht ni noitamrofni emos pmats thgim noitacilppa gnidnes eht sA * 
+noitcnuf siht esu ot luferac eb os * 
+  * 
+/* 
+)tesffo tni(laVtrohStcartxe::tekcaP trohs dengisnu
+{
+;lavter trohs dengisnu  
+;tesffo =+ _daolyap  
+;)) _daolyap)* trohs dengisnu((*(shotn  = lavter  
+;tesffo =- _daolyap  
+  ;lavter nruter  
+}
+
+)tesffo tni(laVgnoLtcartxe::tekcaP gnol dengisnu
+{
+;lavter gnol dengisnu  
+;tesffo =+ _daolyap  
+;)) _daolyap)* gnol dengisnu((*(lhotn  = lavter  
+;tesffo =- _daolyap  
+  ;lavter nruter  
+}
+
+**/
+.daolyap fo setyb wef tsrif eht ni reifitneDI tekcap na tup ot noitcnuf A  * 
+onqes dna di maerts fo noitanibmoc na si ti  * 
+.regetni gnol  dengisnu na erots ot desu si stetco 8  gniwollof ehT  * 
+.setyb 8 naht regnol ton si tekcap eht taht si eruliaf pmats a rof nosaer ehT  * 
+/* 
+
+)(DItkPpmats::tekcaP loob
+{
+;eslaf nruter )eslaf == ))(dImaertSteg>-_erusaeMxt,0(laVtrohSpmats( fi  
+;))(muNecneuqeSmaertSteg>-_erusaeMxt,2(laVgnoLpmats  nruter  
+}
+
+)(DItkPtcartxe::tekcaP diov
+{
+;))0(laVtrohStcartxe(dImaertStes>-_erusaeMxt  
+;))2(laVgnoLtcartxe(muNecneuqeSmaertStes>-_erusaeMxt  
+}
+
+
+
+
+>h.gnirts< edulcni#
+H_TEKCAP_GTO fednfi#
+H_TEKCAP_GTO enifed#
+
+.tekcap eht htiw stnemerusaem emos gnidnib rof ssalc yrallixua nA**/
+ereh sretemarap XT elbissop lla tsil ew ,yltnerruC * 
+/* 
+maraPdneS ssalc
+{
+:cilbup 
+;)(maraPdneS   
+:etavirp 
+     
+      regetni ot dednuor ,mbd </// ;_rewopxt tni   
+)esu sseleriw rof( )lanoitpo( g/b/a 11.208 ni rebmun lennahc sseleriw </// ;_lennahc trohs   
+di maerts eht<///  ;_dimaerts trohs   
+maerts eht yb dehcatta rebmun ecneuqes <///     ;_munqes gnol   
+      sdnocesillim ni gnimit timsnart<///  ;_emitxt elbuod   
+sdnocesorcim ni ,dereviled si tekcap eht nehw wohs ot revird eht yb tes si retemarap siht</// ;_emitxtcam gnol   
+.tnes ot desu si troP PCT fi rebmun ecneuqes s'trop PCT redaeh PCT ni rebmun ecneuqeS eht ///  ;_onqes_pct gnol   
+;_tropxt trohs   
+)esu sseleriw rof( )lanoitpo( rednes eht yb desu etar lennahc ehT///    ;_etarxt trohs   
+rednes eht fo sserdda PI/// ;_rddarednes* rahc   
+rednes eht fo sserdda CAM ///  ;_camrednes* rahc   
+ 
+:cilbup 
+};_dimaerts nruter{)(dImaertSteg trohs enilni   
+};i = _dimaerts{)i trohs(dImaertStes diov enilni   
+};_munqes nruter{)(muNecneuqeSmaertSteg gnol dengisnu enilni   
+};i = _munqes{)i gnol dengisnu(muNecneuqeSmaertStes diov enilni   
+} ;sm = _emitxt {)sm elbuod(emiTxTtes diov enilni   
+};_emitxt nruter{)(emiTxTteg elbuod enilni   
+} ;)rts,_rddarednes(ypcrts {)rts* rahc(emaNredneStes diov enilni   
+ } ;_rddarednes nruter{ )(emaNredneSteg *rahc enilni   
+} ;)rts,_camrednes(ypcrts {)rts* rahc(CAMredneStes diov enilni   
+ } ;_camrednes nruter{ )(CAMredneSteg *rahc enilni   
+};trop = _tropxt { )trop trohs(troPredneStes diov enilni   
+};_tropxt nruter {)(troPredneSteg trohs enilni   
+};etar = _etarxt{)etar trohs(etaRtimXYHPtes  diov enilni   
+};_etarxt nruter{)(etaRtimXYHPteg trohs enilni   
+
+;}
+
+ deificeps-reviecer emos gnidnib rof ssalc yrallixua nA**/
+.tekcap eht htiw stnemerusaem * 
+ereh sretemarap XR elbissop lla tsil ew ,yltnerruC * 
+/* 
+
+maraPevieceR ssalc
+{
+:cilbup 
+;)(maraPevieceR      
+     :etavirp 
+ tkecap deviecer fo YHP sseleriW morf eulav ISSR <///   ;_issr trohs      
+tekcap deviecer fo YHP sseleriW morf eulav esioN <///  ;_esion trohs      
+.tekcap eht devicer hcihw wolf ehT fo dI<///   ;_diwolf tni      
+ .tuphguorht wolf eht llet ylticilpmi lliw eulav sihT .wolf eht yb dehcatta rebmun ecneuqes ehT<///   ;_onqes gnol      
+tekcap eht sehctac XR_CAM nehw epmatsemit ehT</// ;_emitxrcam gnol      
+sdnocesillim ni ,etaG eht yb deviecer si tekap eht nehw emit ehT < ///    ;_emitxr elbuod      
+.tekcap deviecer fo ezis lautca ehT ///   ;_ezis_xr tni      
+reviecer eht fo sserdda PI///  ;_rddareviecer* rahc      
+.elbacilppa fi ,rebmun troP<///   ;_tropxr trohs      
+  
+:cilbup 
+};_diwolf nruter{)(dIwolFteg trohs enilni   
+};i = _diwolf{)i trohs(dIwolFtes diov enilni   
+};_onqes nruter{)(muNecneuqeSwolFteg gnol dengisnu enilni   
+};i = _onqes{)i gnol dengisnu(muNecneuqeSwolFtes diov enilni   
+} ;sm = _emitxr {)sm elbuod(emiTxRtes diov enilni   
+};_emitxr nruter{)(emiTxRteg elbuod enilni   
+};_ezis_xr nruter{ )(htgneLdevieceRteg tni enilni   
+};el = _ezis_xr{)el tni(htgneLdevieceRtes diov enilni   
+} ;issr=_issr{)issr trohs(ISSRtes diov enilni   
+};_issr nruter{ )(ISSRteg trohs enilni   
+;}
+
+
+**/
+.rotareneg yb nevig ytitne na si tekcaP * 
+seirrac ylno ssalc tekcap sihT * 
+.ti htiw tekcap siht ot detaler stnmerusaem lla yrrac dluow tekcap eht ,oslA .noitamrofni sserdda tekcos yna ton ,pmatsemit gnidnes a dna noitamrofni daolyap * 
+/* 
+{ tekcaP ssalc
+ 
+:cilbup
+**/  
+setyB 215 si ezis daolyap tluafeD  *   
